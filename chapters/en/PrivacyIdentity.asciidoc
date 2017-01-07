@@ -1,0 +1,157 @@
+== Privacy, Identity, Surveillance and Money
+
+_Barcelona Bitcoin Meetup at FabLab; Barcelona, Spain; March 2016_
+
+Video Link: https://www.youtube.com/watch?v=Vcvl5piGlYg
+
+Today, I'm going to talk about the concepts of neutrality, decentralization, privacy, and what makes bitcoin so special. You've heard me talk a lot about bitcoin. When I use the word _bitcoin_, I am not talking about the currency. I am talking about a broader concept: the concept of completely decentralized, network-based, flat networks for providing trusted applications. If you happen to have a completely decentralized flat network that could provide trusted applications, the most logical first application is currency. But currency is just the first app.
+
+=== Banking: Liberator to Limiter
+We are restructuring society by rebuilding institutions. Traditionally, our institutions have been hierarchical in design. ((("hierarchy")))This was an invention of industrialization, an 18th-century concept to allow people to organize and communicate at a larger scale. It was very effective at breaking the monopolies of kings and feudal systems. It has now run its course.
+
+Sometimes people ask me what my political positions are, and it's very difficult to explain, but one word captures it, I think: I am a _disruptarian_. ((("disruptarian")))What that means is that every 30 or 40 years at least, things that have settled need to be disrupted. Because as they settle, power accumulates, they become centralized, and with centralized power, corruption happens. This isn't a new concept. My ancestors—I come from Greece—figured out that corruption happens in systems of power, and absolute power produces absolute corruption. There is no more absolute power than the power over money.
+
+____
+"Every 30 or 40 years at least, things that have settled need to be disrupted. Because as they settle, power accumulates, they become centralized, and with centralized power, corruption happens. There is no more absolute power than the power over money."
+____
+
+We live in a world where banking was once a great liberator. ((("banking", "as a liberator")))It was an invention that moved finance from the realm of kings to the realm of everyday people. That system liberated billions of people. And then it got concentrated, it acquired power, and the power led to corruption. What we're left with today is not a liberating system, and it's time to disrupt it. Bitcoin is one of the things that will greatly disrupt centralization of power. Why is that?
+
+=== Negative Outcomes by Design, Not Intent
+One of the things that interests me as a computer scientist working in distributed systems is the architecture of systems. ((("systems", "architecture")))Architecture is a great topic for this city. The architecture of systems is what ultimately produces the outcomes.
+
+I've worked with a lot of bankers. They’re nice people. They try to feed their family, pay their mortgage, keep a steady job. Among them, there are a few sociopaths who inevitably rise to the highest positions of power because sociopathy is an advantage in hierarchical systems. But most of the problems with traditional concentration of power in money has nothing to do with the people being evil. It has to do with the fact that these institutions -- through their shape, through their architecture -- produce outcomes that are not good. ((("design")))They produce outcomes that are not egalitarian. They produce outcomes that are restrictive. They start to express nativism, nationalism, tribalism, class structure, and all of these things make the world a smaller place.
+
+=== Communications Expanding While Access to Banking Is Declining
+In fact, over the last 15 years, we've seen the internet become an enormous power for the decentralization of communications. ((("communication"))) ((("decentralization"))) It has been a very liberating force. But if you look at economic inclusion and how banking works, we haven't expanded opportunity. We haven't expanded access. In fact, we're now regressing. Economic inclusion is decreasing. ((("economic inclusion")))
+
+The reason it's decreasing is because these isolated structures of finance, their very architecture, raise walls: national borders, class structures, and differences in how your money and your commerce are treated. We live in a world that is increasingly global and interconnected. There is even an emergent global culture through the internet. ((("global culture")))And yet our financial systems are parochial, insular, and they’re separated.
+
+____
+"We live in a world that is increasingly global and interconnected, and yet our financial systems are parochial, insular, and separated."
+____
+
+If you look at it from a network perspective, there are systems of money for transmitting small amounts and systems of money for transmitting large amounts. ((("payment systems")))Systems of money for consumer payments, systems of money for business-to-business payments. All of these are separated geographically based on borders, legal jurisdictions, nation-states. What the structure produces is separation. It means that, as people, we are less and less free to transact with the rest of the world. Geopolitics is affecting finance in a serious way because the combination of state and money produces toxic results. ((("geopolitics"))) ((("freedom")))
+
+And we're about to disrupt all that.
+
+=== New Architecture, New Access
+What bitcoin's architecture gives us is a new way of organizing the world, exactly the same way that the internet flattened access to communication and made every system that connects to it an equal peer. ((("internet")))If I have an IP address, my packets are treated no differently than the packets of anybody else on the network. ((("neutrality"))) For the most part, that gives voice to everyone. It gives everyone the power of the printing press on a global scale. Bitcoin will do the same by giving everyone the power of banking on a global scale.
+
+____
+"What bitcoin's architecture gives us is a new way of organizing the world, exactly the same way that the internet flattened access to communication and made every system that connects to it an equal peer."
+____
+
+Think of it like desktop banking. In the way desktop printing, desktop publishing and websites changed communications, desktop banking -- individually controlled banking with all of the power of the largest bank in the world -- will create disruption. ((("innovation", "banking")))
+
+Imagine a world where every person has the ability not only to execute transactions but also to create complex financial systems and instruments without asking for anyone's permission. Simply by connecting to the network, anyone can start a new application. Centralized systems can’t do that. ((("innovation", "permissionless"))) ((("decentralization")))
+
+In a centralized system, the further out you are, the less control you have. The closer you get to the system, and the farther you move up the hierarchy, the more controlled, the more limited the access is. ((("access control")))But not with bitcoin. With systems like bitcoin, every node on the network has equal access to all of the financial services. ((("neutrality"))) In a centralized system, if you want to build a new application, you must first ask permission. And then permission is only granted if that application can apply to a very large population and be profitable. ((("innovation", "asking permission")))
+
+On the internet or on bitcoin, all that is needed to start an application is two nodes, two people, two systems. They can start communicating, construct their own protocols, their own systems, and that application with only two people using it is just as valid as every other application on the network.
+
+=== Net Neutrality and Non-Discrimination
+When you look at the internet, the fundamental misunderstanding is that people think that the power of the internet comes from the ability to transmit information fast. But the real power of the internet comes from net neutrality. Net neutrality is the concept that the internet does not discriminate based on source, destination or content. ((("neutrality")))
+
+____
+"Bitcoin is the first financial network that exhibits neutrality."
+____
+
+Bitcoin is the first financial network that exhibits neutrality. In a bitcoin transaction, the network doesn't care about the source, the destination, the amount or what type of financial application it's supporting. The only relevant question is, did you pay a sufficient fee to use the network resources? And if you did, your application is valuable. ((("banking", "neutral network")))
+
+==== There Are No Spam Transactions in Bitcoin
+We have an interesting conversation happening in bitcoin right now. Perhaps some of you have heard the term “spam transactions.” What is a spam transaction? What does it mean for a transaction to be “spam”? ((("spam"))) I think that term is meaningless because to decide which transactions are spam and which are not, you're making a top-down judgment. You're imposing, in the architecture, the choices of which applications are legitimate. Then the question is, legitimate to whom? The end user? There is no such thing as a spam transaction simply because if a transaction carries enough fee, ((("transaction", "fees")))that means that the sender of that transaction felt it was valuable enough to transmit—and therefore, it is a legitimate transaction. This replaces the concepts of control and content by making decisions about what is good, what is bad, what is legitimate, what is illegitimate, what is a valuable application, what is not a valuable application, with a simple market mechanism. If you paid essentially a tiny fee for your transaction, then because of the democratization of finance, your transaction is valuable and is not spam.
+
+=== Network-Centric Money
+Starting in the 1970s, we have seen the world begin to adopt digital currencies. When people call bitcoin a “digital currency,” they're missing the point. The euro is a digital currency, the US dollar is a digital currency. Less than 8 percent of these currencies exist in physical form; the rest is bits on ledgers. But the fundamental difference is that these ledgers are controlled by centralized organizations, whereas in bitcoin, they're not. Bitcoin has a decentralized network, an open network. ((("decentralization")))
+____
+"Bitcoin isn’t a digital currency. It’s a cryptocurrency. It’s a network-centric money."
+____
+
+Bitcoin isn’t a digital currency. It’s a cryptocurrency. It’s a network-centric money. I really like the idea of a network-centric money. A network that allows you to replace trust in institutions, trust in hierarchies, with trust on the network. ((("trust")))The network acting as a massively diffuse arbiter of truth, resolving any disagreements about transactions and security in a way where no one has control. ((("money", "network-centric")))
+
+=== Dreaming of Totalitarian Control over All Financial Transactions
+Starting in the 1970s, our currencies began to be digital, but this is not the same “digital” as bitcoin. This started a dream for governments, the dream of being able one day to control every financial transaction of every human being on the planet in a way that everything was visible to the power structures. Where privacy dies. Where the ability to make a transaction immediately puts you under the lens of systems that surveil you. We have been creating a system of global financial surveillance, a system of totalitarian financial surveillance throughout the world. ((("surveillance")))
+
+____
+"This started a dream for governments, the dream of being able one day to control every financial transaction of every human being on the planet in a way that everything was visible to the power structures. Where privacy dies."
+____
+
+That system, which requires identification and credit checking and limited access, is responsible for the fact that economic inclusion is regressing. ((("identity")))It is responsible for the fact that 2 1/2 billion people have absolutely no access to banking. That's just the heads of household, not counting their families. That’s not counting people who have limited access to banking in a single currency within a single border. If you count all of them, it's billions upon billions. ((("financial exclusion")))
+
+==== Censorship of Financial Transactions
+As a member of the privileged elite of the developed world, I have the ability to open a brokerage account in 24 hours, electronically. And within 24 hours, I can be trading in yen on the Tokyo stock market. I can be sending and receiving money anywhere in the world without really any limits. All I have to do is sacrifice my privacy and my freedom. ((("freedom"))) ((("privacy")))
+
+Because while I can do all of those things and they're very powerful, there are some things I can't do. I am not talking about buying drugs. That's not really that interesting. What I am talking about are simple things -- for example, donating to an activist organization like WikiLeaks. A few years ago, WikiLeaks was completely cut off from the world's financial system simply with extrajudicial pressure applied on the few major payment providers: Visa, MasterCard, the banking transfer system, PayPal, etc. Without any legal process, without any conviction, and perhaps, in my opinion, without absolutely any crime other than revealing the truth of crime, WikiLeaks was cut off from the world's financial system. This is now happening not just to activist organizations; it's happening to entire countries.
+
+The dream of nation-states, to create a totalitarian financial system, died on January 3rd, 2009, with the invention of bitcoin and the mining of the genesis block. ((("surveillance"))) ((("privacy")))
+
+____
+"The dream of nation-states, to create a totalitarian financial system, died on January 3rd, 2009, with the invention of bitcoin and the mining of the genesis block."
+____
+
+==== Network-Centric Money Is Censorship Resistant
+Bitcoin is _censorship-resistant_. You may have heard this term. You cannot control where money is transmitted in bitcoin. It's not attached to identities or geography. In bitcoin, surveillance of everyone is not possible. In bitcoin, censorship resistance is an artifact that is created by neutrality, the architecture of a flat network without borders. The architecture of neutrality that doesn't ascribe any meaning to source, destination or value, is what creates censorship resistance. ((("neutrality"))) ((("censorship resistant")))
+
+=== Sousveillance, Not Surveillance
+Privacy is very important but it's a term that often has very deep political meaning. ((("privacy")))I like to juxtapose it to another term, _secrecy_. ((("secrecy")))What is the difference between privacy and secrecy? ((("privacy vs. secrecy")))Ultimately, and practically in today's vocabulary, privacy is the right of billions of individuals to not be surveilled. Secrecy is the power of the very few to escape accountability, to have no transparency.
+
+We live in a world where every individual transaction you do through the financial system is cataloged, analyzed, and transmitted to intelligence services all around the world that collaborate, and yet we have no idea what our governments do with money. The financial systems of the powerful are completely opaque. Our transactions are completely visible through this system of surveillance. This world is upside down. Bitcoin rights it.
+
+Privacy is a human right and secrecy is a privilege of power, and we need to be in a world where we have complete, ultimate, strong privacy for the billions of people. Because that is a human right, because that is a cornerstone of the freedoms of expression, association, political speech, and all of the other freedoms that are very much attached to privacy. We need to live in a world where secrecy is fickle and easily pierced, where power has to face accountability because they are under the spotlight of transparency. ((("transparency")))We need to flip the system upside down.
+
+____
+"Privacy is a human right. Secrecy is a privilege of power. We need to live in a world where secrecy is fickle and easily pierced, where power has to face accountability because they are under the spotlight of transparency."
+____
+
+One of my favorite words is a French word: _sousveillance_. ((("sousveillance")))It is the opposite of surveillance. ((("surveillance")))Surveillance means to look from above; sousveillance means to look from below. In their dream of nation-states controlling all of our financial futures, they made one major miscalculation. It's a hell of a lot harder for a few hundred thousand people to watch 7 1/2 billion. But what do you think happens when 7 1/2 billion of us stare back? When the panopticon turns around? ((("panopticon")))When our financial systems, our communication systems, are private, and secrecy is an illusion that can't be sustained? When crimes committed in the names of states and powerful corporations are vulnerable to hackers and whistleblowers and leakers? When everything eventually comes out? We have a great advantage because the natural balance of the system is one in which individuals can have privacy but the powerful cannot have secrecy anymore. Bitcoin is one of the first steps in that.
+
+____
+"We have a great advantage because the natural balance of the system is one in which individuals can have privacy but the powerful cannot have secrecy anymore. Bitcoin is one of the first steps in that."
+____
+
+=== Banks for Everyone
+The ability to transact across borders means that we will now be able to extend financial services to billions of people who have no access. Not through complicated technology necessarily. Sometimes I speak to various regional banks, the ones that are not afraid of bitcoin. They tell me things like 80 percent of our population is a hundred miles from the nearest bank branch and we can't serve them. ((("banking")))In one case, they said a hundred miles by canoe. I'll let you guess which country that was. Yet, even in the remotest places on Earth, now there is a cell-phone tower. Even in the poorest places on Earth, we often see a little solar panel on a little hut that feeds a Nokia 1000 phone, the most produced device in the history of manufacturing, billions of them have shipped. We can turn every one of those into, not a bank account, but a bank. ((("inclusion")))
+
+____
+"I don’t have a Swiss bank account in my pocket. I have a Swiss bank."
+____
+
+Two weeks ago, President Obama at South by Southwest did a presentation and he talked about our privacy. He said, ”If we can't unlock the phones, that means that everyone has a Swiss bank account in their pocket." ((("privacy")))That is not entirely accurate. I don’t have a Swiss bank account in my pocket. I have a Swiss bank, with the ability to generate 2 billion addresses off a single seed and use a different address for every transaction. That bank is completely encrypted, so even if you do unlock the phone, I still have access to my bank. That represents the cognitive dissonance between the powers of centralized secrecy and the power of privacy as a human right that we now have within our grasp. If you think this is going to be easy or that it's going to be without struggle, you're very mistaken.
+
+=== Bitcoin, the Zombie of Currencies
+If you read anything about bitcoin, you'll see the very same things that they said about the internet in the early '90s. It is a haven for pedophiles, terrorists, drug dealers, and criminals. How many of you in this room have bitcoin? How many of you in this room are terrorists, pedophiles, drug dealers or criminals? ((("crime"))) _Audience laughs_
+
+You see the thing about bitcoin is while they push this story, every now and then someone who has never heard of bitcoin notices an important thing: it's still not dead, which is always surprising because every two or three months there is an article that says it’s dead. That's great marketing. Because every time someone hears it's dead and three months later they hear it's still not dead, they think, "Huh, this thing really tends to survive." I call bitcoin "the internet of money,” but perhaps we should call it “the zombie of currencies.” It is the currency that is the undead.
+
+____
+"I call bitcoin 'the internet of money,' but perhaps we should call it 'the zombie of currencies.' It is the currency that is the undead."
+____
+
+The issue here is that we're now creating a system that is threatening the largest industry in the world, and that is finance. They are going to object. They are going to push back, and they're going to use the most common and effective emotional tactic there is, which is fear. They will treat you in such a way as if you are idiots and try to persuade you that this is something to fear. When people hear that message, maybe the next day they come to one of these meetups and they meet a dentist who owns bitcoin, an architect who owns bitcoin, a taxi driver who uses bitcoin to send money back to their family—normal people who use bitcoin to give themselves financial power and financial freedom. ((("community"))) ((("freedom"))) ((("adoption")))Every time that message is broken by cognitive dissonance, bitcoin wins. All bitcoin really has to do is survive. So far, it's doing pretty well.
+
+=== Currencies Evolve
+In the new network-centric world, currencies occupy evolutionary niches. They evolve, like species, based on the stimulus they have from their environment. Bitcoin is a dynamic system with software developers that can change it. The question is, in which direction will bitcoin evolve? Which environmental niche will it attempt to fit in? And how will that be affected by the actions of the powerful? If they attack bitcoin, it evolves to defend itself against predators, just like any species. If they attack bitcoin anonymity, it evolves to become more anonymous. If they attack its resilience, it evolves to become more decentralized. In the end, despite all of the messages of fear, bitcoin is the cuddly little bear of currencies and you do not want to kick it. Because, as in evolution, if you stomp on the little gecko, it will evolve until it's a Komodo dragon and then you can't stomp on it. ((("currency", "evolution")))
+
+Sometimes people ask me, “Do you think governments will ban bitcoin? Do you think they will try to regulate it out of existence? Do you think they will attack it with denial-of-service attacks?" The answer is really simple because in network-centric systems—systems that are dynamic and adaptable, systems that exhibit antifragility -- attacks cause the system to adapt and evolve and become resistant. Think about this for just a second.
+
+____
+"In network-centric systems, attacks cause the system to adapt, evolve, and become more resistant."
+____
+
+==== Attacks Build Resistance
+I've been involved with the internet since 1989. In the early days lots of articles were written about how the internet was not resilient, could not scale to do voice, was not secure. ((("scaling"))) ((("security")))I remember times when denial-of-service attacks would take down Yahoo, AltaVista, and even Google for hours, sometimes days. What happened between then and now? How many times have you seen Google go down in the last five years? Have people stopped attacking Google? Quite the opposite. Google can now sustain gigabits of denial-of-service anywhere in the world and dynamically reroute. The same applies for all internet applications. The attacks didn't stop. The system became immune because, like a human immune system, if you are exposed to a virus and it doesn’t kill you, you evolve resistance, and the next time you're exposed to the virus, it does nothing to you.
+
+Will governments try to ban bitcoin? Regulate bitcoin? Attack bitcoin? They already are. They have been, almost since the beginning, and bitcoin is still getting stronger. It's a system that is under a constant denial-of-service attack, that is on the internet being attacked by hackers, by agents, by other systems, 24 hours a day.
+____
+"Bitcoin is still getting stronger. It's a system that is under a constant denial-of-service attack, that is on the internet being attacked by hackers, by agents, by other systems, 24 hours a day."
+____
+
+In security, we have a really funny term, which is a _honeypot_. ((("honeypot")))A honeypot is a system that is designed to attract hackers. What bigger honeypot could you have than a financial network that has $6 billion on it? If you hack bitcoin, there is a $6 billion reward for you finding a way to hack it. No one has collected that reward yet, and it's not because they haven't been trying. They’ve been trying nonstop. But systems like bitcoin are resilient. ((("security")))
+
+=== Welcome to the Future of Money
+Remember that what we're doing here is not a currency. It is a reworking of the societal systems of organization that have failed us. The 18th-century systems of hierarchies that do not scale to a global, interconnected world are being replaced by network-centric, flat architectures—whether that's the internet or any of the applications running of top of it or bitcoin itself. Currency is just the first app. When you have a network that can provide you with neutral trust, you can build myriads of applications on top, and you don't have to ask for permission.
+
+Bitcoin is much more than currency. When I say that bitcoin is “the internet of money,” the emphasis is not on “money”; the emphasis is on _internet_. Welcome to the future of money.
+
+Thank you.

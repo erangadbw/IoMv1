@@ -1,0 +1,130 @@
+== Infrastructure Inversion
+
+_Zurich Bitcoin Meetup; Zurich, Switzerland; March 2016_
+
+Video Link: https://www.youtube.com/watch?v=5ca70mCCf2M
+
+Today, I'd like to talk about a concept that I like to call _infrastructure inversion_. I'm going to talk about how things change when a new technology must first use the old infrastructure, and how that creates a conflict, pressure that can lead to an infrastructure inversion. ((("infrastructure inversion")))
+
+=== New Technologies, Riding on Old Infrastructure
+Bitcoin is new. Bitcoin is different. When I use the term _bitcoin_ here, I'm speaking broadly. What I'm talking about is decentralized network-centric platforms. These platforms can be used for currencies, payments, and other trust applications. The platform could be bitcoin, or something else. For this talk, I'll use the term _bitcoin_ to cover that whole category that has now been created. It's new, and we're trying somehow to squeeze it on top of the existing banking system. The result is messy.
+
+Not only is it messy, but it's also an opportunity for those who support the traditional banking system to say, "See, it's not working. It's slow. It doesn't work so well." This isn't new. This is a phenomenon that happens every time you have a new technology that is disruptive, that in the first few years of its adoption it has to be carried by the existing technology that it is disrupting.
+
+____
+"Every time you have a new technology that is disruptive, in the first few years of its adoption it has to be carried by the existing technology that it is disrupting."
+____
+
+Let's take a historical look at how these things play out. When you read about a disruptive technology 20, 30, 40 years in the future, it is all very smooth. It's obvious because hindsight provides clarity. For example, automobiles were a great invention. And of course when automobiles were invented, everyone in the world said, "Yay! We don't need horses anymore." Right? That's not exactly what happened. Instead, they said, "That's crazy. Those noisy disgusting machines that are probably going to kill us all, they'll never work. And why would anyone other than stupid rich people playing with these crazy noisy toys want to use one of these horrible machines when we have perfectly good horses?” ((("innovation", "automobiles")))
+
+This is what actually happens throughout history when you introduce a disruptive technology. You meet resistance. Resistance is the first reaction. The ones who succeed are the one who continue—even though the rest of society tells them they're crazy—to pursue a crazy idea: automobiles, electrification, the internet, bitcoin. These crazy pioneers, who were made fun of by everyone else in society for their crazy ideas, persisted until everybody could see that what they were doing was correct.
+
+==== Infrastructure for Horses
+Looking at that history, one of the really interesting things to me is that in the beginning, the disruptive technology has to live in a world created for the technology it's replacing. When you first ride your brand new automobile in a city, you are riding on roads used by horses with infrastructure designed and used for horses. There are no light signals. There are no road rules. There are no paved roads.
+
+____
+"You are in horse society and you are the crazy one driving one of these horseless vehicles."
+____
+
+There are a few things about horses that cars don’t have. These early cars were forward-wheel drive. So, just two wheels turning. Horses are four-foot-drive vehicles, which gives them a lot of flexibility. They also have balance. You had a road that was designed for horses and it was not paved. Some of them had cobblestone, but the vast majority of roads were not paved. They were also not dry. They were usually covered in mud and horse poo (because that's what horses do). This is the environment that the automobile had to prove itself in. It didn't start out with “Yes, great, we have now invented an automobile. Allow me to demonstrate its capabilities on the Autobahn.” Instead, the crazy rich people who were experimenting with this technology were driving their cars on roads with deep ruts, where the horses had been. On roads not designed for automobiles, in mud. And what happened? The cars got stuck because they didn't have balance and four feet.
+
+The critics said, "Ha, we told you this is never going to work. Look at yourselves. You can't even get out of the mud. Also, where are you going to get gasoline? There is only one gasoline station. What happens if you run out of gasoline before you get there? I mean, if your horse gets hungry, you could at least go a few more miles, but if your new crazy car idea runs out of gasoline, that's it, you're stuck. You were already stuck because of the mud, but now you are really stuck because you ran out of gasoline. This is never going to work." ((("innovation", "criticisms")))
+
+==== From Horses to Vehicles
+Often, new technology must first use the infrastructure of the technology it will eventually replace. In the beginning, automobiles had to use roads designed for horses. Eventually, we started paving roads. Then, something really interesting happened. When you pave roads and make them suitable for vehicles, the old technology (horses) can still use them. If you want to do a nice tour of Zurich on horseback, I am sure the horse would be perfectly comfortable. Horses are very comfortable on asphalt, as are skateboards, Segways, motorcycles, and bicycles -- technologies that didn't exist. In fact, in order for those technologies to exist, you first had to build the infrastructure for automobiles. ((("infrastructure inversion", "paved roads")))
+
+Flat, paved roads not only allow the automobile to exist, allow the horse to comfortably exist, but they also open the door for new technologies. Now, you have people riding Segways, scooters, skateboards, rollerblades, pushing prams and all of the other things that are moving around on our streets. ((("innovation", "infrastructure inversion")))
+
+That's an infrastructure inversion. You start with the new technology living on the old infrastructure and then, it flips. You build infrastructure and then the old infrastructure rides on top, on the infrastructure designed for the new technology.
+____
+"That's an infrastructure inversion. You start with the new technology living on the old infrastructure and then, it flips."
+____
+
+Let's look at more examples.
+
+==== Infrastructure for Natural Gas
+One of the great things about history is that some of the most confident proclamations are often ridiculed for centuries because they are so ridiculous. For example, when electrification was introduced during the World’s Fair in Paris, the mayor of Paris at the time said, "Electricity is a fad and as soon as we close the fair and take down the Eiffel Tower, electricity will vanish in history." Wrong on two counts. The Eiffel Tower is still standing and electrification won. ((("innovation", "electricity")))
+
+But think about the time when electrification was just beginning: there was no infrastructure. So how exactly do you put electricity into a home? First of all, the only reason to put electricity in the home is because you are one of those crazy rich people. Probably one of the same people that bought an automobile. You are now basically putting lightning in your walls, which is surely a crazy idea that will result in your house burning down. That's what the newspapers wrote. They wrote about every house that burned down and how these crazy people were putting electricity in their homes.((("innovation", "media")))
+
+What was the infrastructure at the time? Back then, most of the infrastructure was designed to deliver gas. In fact, gas lighting in major cities was pretty common. There were pipes that could deliver gas primarily to street lights but also for home lights, as well as heating. You couldn't use that infrastructure for electricity. You couldn't use it to distribute electricity to homes.
+
+At first, the only use for electricity was really for factories because that's where you could make the most use of electricity. ((("innovation", "adoption"))) Prior to electricity, a factory might have a very large gas-driven motor sitting in the corner of the factory. The motor distributed power through a series of belts and pulleys distributed throughout the factory to run all of the other equipment. It was basically a gas turbine. Electricity allowed you to distribute electricity directly to all of the equipment and use electric motors.
+
+Obviously, factories could benefit from electricity, but why put it in your home? Why would you use electricity since you already had light and heating from gas and it worked fine? And there was no infrastructure. The infrastructure for gas wasn't useful for electricity. If you wanted it, you'd have to build new infrastructure.
+
+Then we see the other aspect of this infrastructure inversion, which is that those invested in the status quo point to your new electricity projects and say, "There is not a large enough distribution network to create customers. And there are not enough customers to require a distribution network. This is never going to happen."  Which is exactly what they said about cars. They said, "There are not enough gasoline stations to fill your cars and there are not enough customers to require gasoline stations. This will never happen." ((("innovation", "criticisms")))
+
+==== From Natural Gas to Electricity
+Then, electrification starts happening, and people discover that once you put down electricity infrastructure, not only can you use that to do the new electricity capabilities, you can also use it to do the old applications. You can do light and heating and you can do them more effectively, in some cases, with electricity. But now, you can do new things. You can do fans and you can do air conditioning and you can do motors and you can do mixers and you can do hairdryers and, generally speaking, houses don’t burn down because of electricity too often.
+
+Again, we see infrastructure inversion. For the first few years, you have to run on the old infrastructure. It's almost impossible. You could theoretically attach a gas generator in your house and feed it with gas and generate electricity locally, but that wasn't very efficient. Then, you build infrastructure for the new technology, and that infrastructure enables the old technology quite comfortably—lighting, heating, or horses, in the case of roads. But it also opens the door for new applications that you couldn't do before. And the world changes. ((("infrastructure inversion", "electricity")))
+
+____
+"Changing the infrastructure opens the door for new applications that you couldn’t do before. And the world changes."
+____
+
+==== Infrastructure for Human Voices
+My third example is a bit more technical. This is where you'll see the audience separate into those who are over 35 and those who are under 35. Tell me if you can recognize this sound.
+
+_Andreas replicates the sound of a dial-up modem_
+
+People under 35 are looking at me like I am crazy, and the people over 35 are saying, "That's a modem. I used to have one of those! That's how we connected to the internet." ((("modem")))Forgive me as we go into ancient history. A modem is a modulator-demodulator. It's a device that speaks data over a telephone line. Here is the thing: if you think about it, the telephone line is like a dirt road and you're trying to drive a car over it. ((("innovation", "modem")))
+
+A telephone line is a system designed to carry human voice. ((("telephone")))When I was a teenager, telephone lines were still analog and we had pulse dialing systems. We used to sometimes try to play music to our friends over the phone line. If you'd ever tried this, you would have discovered it didn't really work. The reason it didn't work is because the frequencies that a telephone line allows are very narrow.
+
+You see, the telephone network is designed to do one thing and only one thing. It's highly specialized, just like the gas network that delivers gas to houses is only designed to deliver gas. Not water or electricity or oil. Just gas, and it's specialized. The telephone system was designed to deliver just voice, and human voice is very specific. Our main frequency is 1 kilohertz; we stay close to that range, sometimes going a bit above and a bit below. There are a few people who can go quite a bit beyond a common range. Teenagers can go to frequencies that I can't even hear anymore. But because of the specialized use of voice and because of the difficulties of transmitting voices, especially over great distances, engineers narrowed the acceptable range. If you allow a full range, you get voice but you also get static noises, electrical interference at very high frequencies. You also get humming noises, electrical interference from motors at very low frequencies. What happens if your phone line has static and humming noises? You add a filter that chops out the lows and another filter that chops out the highs. Now, the connection is cleaner but the human voice starts sounding weirder and weirder because it's being compressed.
+
+This compressed road is a very difficult road to ride data over because when you're transmitting data, you need to get a lot of information into a very narrow frequency band. The whistling sound that you hear with the modem is actually two modems trying to test the available frequency range on this specific connection. All of those noises are the modems saying, in different frequencies, “Can you hear me now?” and the other saying, “I heard you. Can you hear me?” back and forth until the available range is established.
+
+This is an insane way to do data transmission. You've basically got two devices that are singing to each other over a very narrow channel, trying to somehow squeeze as much data as possible through a narrow little straw. Then, we upgraded them and they got better and better at doing this.
+
+The phone companies hated it: "That's not what we designed the networks for. This is a pristine, state-of-the-art voice-communicating network. What the hell are you people doing?" In fact, in the country where I grew up—in Athens, Greece—if you tried to make a long-distance call with the modem, what you would hear is the beginning of a modem connection and then an abrupt click. What? What just happened? They cut off the lines if they detected a modem. Why? Because it was competing against the phone company. Kind of like banks shutting down accounts of bitcoin companies. Or basically, exactly the same. ((("innovation", "competition")))
+
+What did they say at the time? They said, "We could deploy data connections—fiber, coaxial cables, direct data connections at high bandwidths. But first of all, no one needs high bandwidth because what are they going to do? Transmit voice? We already have a voice network. It's fantastic. We don’t need these new things. Secondly, you don’t have enough users to deploy coax. And you don't have enough coax to build a user base. This is never going to happen." The same exact idea.
+
+==== From Voice to Data
+Then, we had one of most spectacular examples of infrastructure inversion that I have ever seen and that I recall from history. When, first, the internet was not wanted and carried over phone lines reluctantly. Then, the internet was carried over phone lines by phone companies becoming internet service providers. Then, gradually their backbones become data-oriented. Then, their entire network becomes digital. Then, their entire network starts running over the internet. Then, they start running all of their phone lines on top of the internet. Today, every single phone call you do anywhere in the world is carried over the internet, with a few exceptions at the edges in some developing countries. A complete infrastructure inversion. ((("infrastructure inversion", "data")))
+
+____
+"Today, every single phone call you do anywhere in the world is carried over the internet, with a few exceptions at the edges in some developing countries. A complete infrastructure inversion."
+____
+
+It turns out, it's very difficult to push data through a narrow phone line designed for voice, but if you flip the equation, putting voice over a data connection is trivially easy. What's the difference? One is extremely specialized. It had already chosen the application for you. The application is voice; data is the exception that you’re trying to squeeze through. The other one is very generic. Data means anything, and voice is just one of the applications carried comfortably.
+
+I think the ultimate irony for the phone companies was that special thing called “comfort noise generation.” ((("comfort noise generation"))) ((("telephone")))If you're a phone engineer, you know what I'm talking about. This is the most ironic thing ever. After years and years of people my age being used to their phone line having static all the time, when we started having cellular telephony and digital phone lines that were perfect, they had no noise. The moment the other person stopped talking, what you would have was complete silence. So, you were like "Oh, okay, I guess they hung up."
+
+They didn't hang up. They were still there. There was just none of the static. Then, the phone companies invented the most brilliant technology ever, which is comfort noise generation. This is a device that sits on your end of the phone and it looks to see if the connection is still open, and if it is, it whispers static into your ear just to make you feel comfortable that the other person is still there. It actually generates high-frequency noise on purpose, artificially on your end—noise that isn't in the system, just so that you don't think the other person has hung up.
+
+The very same companies that said, "We will never be able to do quality voice over the internet. We don't want the internet on our phone lines,” are now injecting noise in order to simulate the terrible performance of the previous network because we're now delivering CD-quality or better sound across continents. Complete infrastructure inversion.
+
+=== From Banking to Bitcoin
+Now, we have bitcoin. We have a decentralized trust platform that can do settlement of transactions on a global basis without intermediaries. But we're still living in the old system. Today, we have to use exchanges tied to traditional bank accounts, or use IBAN transfers, or credit cards. Today, we're riding the automobile along the muddy roads of banking. The bitcoin supercar, the Formula One of finance, is riding along on the muddy roads of 1970s mainframe-based banking, and it’s a bumpy road. ((("infrastructure inversion", "banking")))
+
+____
+"The bitcoin supercar, the Formula One of finance, is riding along on the muddy roads of 1970s mainframe-based banking, and it’s a bumpy road."
+____
+
+The banks point at this and say, "It's not working. Look, you have to do all of the regulation that we have to do. You have to do all of the identity that we have to do. You have to slow everything down to the speed of traditional banking. This is never going to work. Not only that, but you don't have enough users to build infrastructure, and you don't have enough infrastructure to attract new users. So, this is clearly never going to work."
+
+But what we _do_ have, just like with electricity and the automobile and the internet, is a new technology that has within it the promise of a thousand other applications they haven't even imagined.
+
+I predict, over the next 15 to 20 years, we'll see a great infrastructure inversion happen in finance. First, the banks will resist. Then, the banks will adopt. The banks will run their systems alongside blockchain and bitcoin systems, and finally they will run all of traditional banking as an application on top of a decentralized trusted ledger. Because, while it is very hard to do a decentralized trusted ledger that's connected to all of these legacy banking systems, simulating legacy banking on top of a decentralized ledger, on top of bitcoin, an open global blockchain, is trivial. All you have to do is take all of its capabilities and slow them down. For example, I can create an application that takes your bitcoin transaction and makes it clear in three to five business days for a cost of 5 dollars. I have implemented traditional banking. It’s kind of like comfort noise generation.
+
+____
+"Over the next 15 to 20 years, we'll see a great infrastructure inversion happen in finance."
+____
+
+For those of us so accustomed to the banking of a previous generation who say, "I don’t like all of this fast finance. It makes me uncomfortable. I want to sit at my kitchen table every Sunday and balance my checkbook and make sure none of my checks bounced. I don’t like all of this electronic instantaneous global transfer. It scares me,” we can slow it down.
+
+This infrastructure inversion will allow us to comfortably run traditional banking applications on top of a distributed global ledger -- an open blockchain like bitcoin, _the_ open blockchain, probably bitcoin’s open blockchain and simultaneously open the door for other applications, for applications we've never seen before. These new applications will look different from traditional banking. As different as a Segway or skateboard looks to those committed to traditional horse-carriages. As different as moving to electricity in an era of gas lighting in traditional Victorian homes. As alien as comfort noise on high quality data voice communication over the internet that is capable of so much more.
+
+Enabling the future on your legacy system is very difficult. While you’re trying to do that, everyone is pointing at the future and saying, "Look. It doesn't work." Once you flip the infrastructure, simulating the past on the network of the future becomes extremely easy.
+
+____
+"Once you flip the infrastructure, simulating the past on the network of the future becomes extremely easy."
+____
+
+What we're part of now is the very early stages as we look at the future of money, and the first stages of the greatest infrastructure inversion the world has ever seen.
+
+Thank you.

@@ -1,0 +1,29 @@
+[preface]
+== Preface
+_By Andreas M. Antonopoulos_
+
+When I started my journey in bitcoin, I never thought it would lead to this. This book is like an abridged diary of my discovery of bitcoin, delivered through a series of talks, starting in 2013 continuing to early 2016.
+
+Over these past three years, I have delivered more than 150 talks to audiences across the world, recorded more than 200 podcast episodes, answered several hundred questions, participated in more than 150 interviews for radio, print and TV, appeared in eight documentaries and written a technical book called _Mastering Bitcoin_. Almost all of this work is available, for free, under open-source licenses, online. The talks included in this book are only a small sample of my work, selected by the editorial team to provide a glimpse into bitcoin, its uses, and its impact on the future.
+
+Each of these talks was delivered to a live audience, without slides or any visual aides, and was mostly improvised. While I have a topic in mind before each talk, a lot of my inspiration comes from the energy and interaction with each audience. From talk to talk, the topics evolve as I try out new ideas, see the reaction and develop them further. Eventually, some ideas that start as a single sentence evolve, over several talks, into an entire topic.
+
+This process of discovery is not perfect, of course. My talks are littered with minor factual errors. I recite dates, events, numbers, and technical details from memory and often get them wrong. In this book, my off-the-cuff errors, malapropisms, and verbal tics have been cleaned up by the editors. What remains is the essence of each presentation -- how I wish it had been delivered, rather than a transcript of the actual delivery. But, with that cleanup there is also a price to pay. What is missing is the reaction and energy of the audience, the tone of my sentences, the spontaneous giggles from me and the people in the room. For all of that you have to watch the videos which are linked in <<video_links>> of the book.
+
+This book and my work over the past three years is about more than bitcoin. They reflect my worldview, my political ideas and my hopes, as well as my technical fascination and my unabashed geekiness. They summarize my enthusiasm about this technology and the astonishing future that I envision. This vision starts with bitcoin, a quirky cypherpunk experiment which unleashes a ripple of innovation, creating "The Internet of Money" and radically transforming society.
+
+<<<
+
+_Note from the Editors_
+
+Almost the entire bitcoin community knows Andreas's contribution to bitcoin. In addition to his written and audio work, he's a highly sought-after public speaker, lauded for consistently delivering innovative, thought-provoking, engaging talks. This book represents only a small sampling of Andreas's work in the bitcoin and blockchain industry over the past three years. With so much content, simply deciding what talks to include was an arduous task. We selected these specific talks because they fit the criteria of the book; we could easily have included dozens more. This book is Volume 1; we hope to publish another volume soon.
+
+We began this book project with a vision: to provide an easy-to-read, short-story style overview of why bitcoin matters, of why so many of us are excited about it. We wanted something we could share with family, friends, and co-workers that they might actually read: a compendium that they could pick up for five minutes, no-commitment, or explore for a few hours. It needed to be engaging, with real-world analogies to make the tech understandable. It needed to be inspirational, with a vision of how these things could positively impact humanity. It needed to be honest, acknowledging the shortcomings of our current systems and the technology itself.
+
+Despite our best efforts, we're sure there are things we could improve and change; this is a first edition. We've edited heavily in some places, for readability, while always trying to preserve the essence of the talk. We believe we've struck a good balance and we're pleased with the book as a whole. We hope you are too. If you have comments about editing, content, or suggestions about how we can make the book better, please email us at errata@merklebloom.com.
+
+*Tips to make your reading experience even better:*
+
+*Each talk is intended to stand alone.* There is no need to start at the beginning -- although if you are unfamiliar with bitcoin, you may want to start at the first talk, "What is Bitcoin," to get an overview of the topic. You'll notice some repeating themes and analogies, like the Red Flag Act or the parent-and-child talk about money. While the examples occasionally repeat, they're most often used to illustrate a different point in each talk.
+
+*You'll find a robust index at the end of the book.* One of the things we're most proud of is the index. We've worked hard to provide an index that will allow you to cross-reference and research themes and topics.

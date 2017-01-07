@@ -1,0 +1,39 @@
+== Colophon
+
+*Talks by Andreas M. Antonopoulos*
+https://antonopoulos.com/
+@aantonop
+
+*Cover Design*
+Kathrine Smith: http://kathrinevsmith.com/
+
+*Transcription and Editing*
+S.H. El Hariry, M.K. Lords, Pamela Morgan, Maria Scothorn, Sarah Zolt-Gilburne
+
+*Copyediting*
+Brooke Mallers, Ph.D.: @bitcoinmom
+
+{nbsp}
+{nbsp}
+
+_Copyright (C) 2016 by Merkle Bloom LLC_
+_All rights reserved_
+
+mailto:info@merklebloom.com[info@merklebloom.com]
+
+{nbsp}
+{nbsp}
+
+First print: *August 30, 2016*
+
+Second print: *September 27, 2016*
+
+*Disclaimers:*
+
+[small]#This book is edited commentary and opinion. Much of the content is based upon personal experience and anecdotal evidence. It is meant to promote thoughtful consideration of ideas, spur philosophical debate, and inspire further independent research. It is not investment advice; don't use it to make investment-related decisions. It's not legal advice; consult a lawyer in your jurisdiction with legal questions. It may contain errors and omissions, despite our best efforts. Andreas M. Antonopoulos, Merkle Bloom LLC, editors, copy editors, transcriptionists, and designers assume no responsibility for errors or omissions. Things change quickly in the bitcoin and blockchain industry; use this book as one reference, not your only reference.#
+
+[small]#References to trademarked or copyrighted works are for criticism and commentary only. Any trademarked terms are the property of their respective owners. References to individuals, companies, products, and services are included for illustration purposes only and should not be considered endorsements.#
+
+*Licensing:*
+
+[small]#Almost all of Andreas's original work is distributed under creative commons licenses. Andreas has granted us CC-BY to modify and distribute the work included in this book in this way. If you would like to use portions of our book in your project, please send a request to# mailto:licensing@merklebloom.com[licensing@merklebloom.com]. [small]#We grant most license requests quickly and free of charge.#

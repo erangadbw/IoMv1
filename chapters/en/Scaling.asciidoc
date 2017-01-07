@@ -1,0 +1,115 @@
+== Scaling Bitcoin
+
+_Bitcoin Meetup at Paralelni Polis; Prague, Czech; March 2016_
+
+Video Link: https://www.youtube.com/watch?v=bFOFqNKKns0
+
+=== Stories of Scaling
+Today, I'm going to talk about scaling. A lot of you probably have noticed that there is a very interesting debate in bitcoin today about how to scale bitcoin. That's the topic I want to address, not from a technical perspective but from a broader perspective, to try to understand what it means to scale.
+
+==== Usenet Will Destroy the Internet
+Gather around and we will talk about a long time ago. It was 1989 and the internet was dial-up. ((("internet")))Not just the connection of users to the internet; in most cases, the backbones to the internet were dial-up. Between universities, between research stations, there were a few permanent high-speed connections -- 256 kilobits, 512 kilobits. But the internet was mostly dial-up. Email had not yet really started to take hold, but there was a special place on the internet called Usenet. ((("scaling", "usenet")))Usenet was a system of discussion groups where you could post a message in text and other people would see it and then they would respond.
+
+This was not instant messaging. This was _slow_ messaging because, in order for Usenet to work, all of the messages had to be transmitted via dial-up systems and propagated from node to node in a system called _store and forward_. You would post a message and it would take between 24 and 48 hours to reach everyone. Then, they could respond and it would take 24 to 48 hours for you to see their response. Today, we would compare that to trying to communicate with Matt Damon on Mars, like in _The Martian_ movie.
+
+At that moment, there was a big conversation among the engineers of the internet because Usenet was getting very popular and it was getting very big. Kilobytes and then megabytes of text information needed to be transmitted. At first, it would take about 30 minutes on a dial-up connection to get all of the Usenet messages for a day. Then, as the system became more popular, more messages meant more data and more time. Soon, it was taking one hour, two hours, and three hours. And the experts predicted the end. They said, if you draw a point at where we are today and another at where we were six months ago, and connect them in a line, very soon it will take 26 hours to transmit one day’s messages and then we have a problem because we only have 24.
+
+So, what happens then? The internet will collapse! Clearly, it can’t scale. It won’t possibly scale.
+
+==== Alt Groups Will Destroy the Internet
+At the time, there were two parts to Usenet. There was the regular part of Usenet, which contained very carefully structured groups for academic discussions, and then there was another little part of Usenet called _the alt_, the alternative groups. ((("scaling", "the alt"))) The alt was optional. As a Usenet provider, you could carry alt if you wanted to but you didn’t have to. The really interesting providers offered the alt groups. Of course, all of the interesting stuff was in the alt groups: some of the early amazing groups, alt.folklore.computers, alt.security, and of course, like everything else that's been driving scale on the internet, alt.sex.
+
+These alternative groups, being optional, were the focus of this great debate. Should we carry them? Because at this point we started seeing the world's first spam. ((("spam"))) I remember receiving the first spam. It was a message by a couple of lawyers that was posted to every Usenet group. You did not do that. That was not cool. A thousand people told them it was not cool. That was the first internet backlash.
+
+The discussion was, do we carry alt groups? Because if we carry alt groups, the internet will surely melt down and there is no way it could ever scale. If this becomes popular, people will discuss more, and if they discuss more, we won’t have enough capacity to deal with this data. This conversation lasted for more than two years. There were a few brave service providers that carried the alt groups, and they used massive hard drives—huge 5MB hard drives. Again, the main idea was, if you take the where-we-are-here and where-we're-going-up-there, we hit a wall.
+
+____
+"If we carry alt groups, the internet will surely melt down and there is no way it could ever scale."
+____
+
+So, the internet couldn’t scale. That was the basic beginning of the scaling issue on the internet. It couldn't scale, wouldn't scale, clearly. Many people wrote their Ph.D. theses on why it wouldn't scale.
+
+But of course, the thing is, networks don’t scale. Networks fail to scale. ((("network")))Some networks fail to scale gracefully for decades, and those are the ones that succeed.
+____
+"Some networks fail to scale gracefully for decades, and those are the ones that succeed."
+____
+
+Eventually, we solved the Usenet problem. Digital connections were upgraded, more systems connected with leased lines and direct connections. Dial-up was gradually replaced by leased lines. People started investing in the infrastructure and we could comfortably carry Usenet. Then, people started using email. ((("scaling", "email"))) And the scaling problem returned.
+
+==== Email and Email Attachments Will Destroy the Internet
+As email became popular, it started replacing and eclipsing the size of Usenet. Now, we had an even bigger problem because people wanted to communicate directly. Now, a message didn’t take 24 hours, it took two hours to cross the internet, which meant that people started having real-time conversations—well, near real-time. Email use exploded. And again, the internet couldn’t scale because if you look at where email is today and where it was six months ago and draw a line, we cannot scale. The internet will melt down. People wrote more Ph.D. theses about how the internet would die under the load of email and never scale.
+
+Gradually, we started optimizing. We solved the email problem. And when I say "we,” I was just watching because I was a 16-year-old who didn’t know what the hell was going on. But we as people, as humanity, we solved the problem. We scaled it. The internet failed to scale for Usenet and it succeeded to scale for Usenet so that it could fail to scale for email. Then, it succeeded in scaling for email, so some smartass went and invented MIME, multimedia internet messages, which meant that you could attach things to email. These attachments were 10 times the size of the text because people started sending bigger things, like drawings and pictures and of course, once again, sex.
+
+So, we could scale for email but not for email attachments. Everybody was up in an uproar: "We're never going to be able to scale for email attachments. ((("scaling", "email attachments")))The internet will surely melt down!” Then we solved it. Until some British guy, Sir Tim Berners Lee (who then was just Tim) invented the web. Now, you could put the pictures into frames.
+
+==== The Web Will Destroy the Internet
+It was about 1992 when I downloaded and ran the first web browser, NCSA Mosaic, at my university lab. We gathered together three or four friends. We worked for hours to get NCSA Mosaic downloaded and compiled and installed. Then, we launched it and we visited the web. All of it. I can say a sentence not many people can say: In 1992, I visited the entire web in an afternoon. Both sites. Because there were two. I visited both sites, and I thought, _Oh my God. This is going to be huge! The internet will never scale. And just imagine what you could do with sex on the web!_ Of course, this became _the_ scaling application, as we all know. It has been driving internet development since the beginning, but we don't talk about that in polite company.
+
+____
+"I can say a sentence not many people can say: In 1992, I visited the entire web in an afternoon. Both sites. Because there were two. I thought, _Oh my god, this is going to be huge! The internet will never scale._"
+____
+
+The internet was failing to scale for the web. People said, "We can never do all of these images and hypertext documents. It will totally fail to scale.” And more Ph.D. theses were written and more discussions were had. The internet was still failing to scale. But by now, it had been failing to scale for more than a decade, very gracefully, very successfully.
+
+==== VOIP Will Destroy the Internet
+Then, someone invented Voice Over IP. ((("scaling", "VOIP")))Some other people decided, why don't we just replace the entire phone system with the internet? That was a crazy idea. The phone companies then started this massive campaign to inform us of why packet-switched networks could never carry voice. They said, really, the true quality approach to voice was always going to be hierarchical switch networks owned by national monopoly telecom companies because the internet couldn’t possibly scale to carry the world's phone calls.
+
+Those same phone companies (the ones still in business) now route all of their phone calls over the internet. First, they didn’t want the internet on their phone networks. Then, they allowed the internet on their phone networks. Then, they built their phone networks on top of the internet.
+____
+"First, they didn’t want the internet on their phone networks. Then, they allowed the internet on their phone networks. Then, they built their phone networks on top of the internet."
+____
+
+==== Cat Videos Will Destroy the Internet
+Then, we started sending videos. And then the internet couldn’t scale again because YouTube was going to melt down the internet. Clearly, we needed some content quality and filtering because we can’t allow every idiot to go and publish a video about their cat. They said, "There are already a thousand cat videos. If you draw a line from how many cat videos there were yesterday to how many cat videos there are today and if you extrapolate, by the end of this decade, there will be a billion cat videos on the internet!” Which is exactly what happened. ((("scaling", "cat videos")))
+
+But we scaled. Now, we do 3D video and 4K video.
+
+==== Netflix Will Destroy the Internet
+When Netflix came along, we saw the same mistake. In 1992, when I visited the first website, my thought was, _Wow, TV is so dead because one day we will be able to transmit movies instantaneously._ If you go and say that to a respectable network researcher in 1992, they call you an idiot. Because, clearly, if we had Netflix in 1992, a single video stream to a single user would melt down the entire internet. Yet, here we are today. By the way, the internet is failing to scale for Netflix and all of the other companies that are doing live video. ((("scaling", "netflix")))It will continue to fail to scale incrementally and gracefully. Soon, we'll be doing Oculus Rift holographic 3D, 4K, VR. Then, it will really fail to scale. People will still write Ph.D. theses on why the internet is about to melt down.
+
+=== Scaling is a Moving Target
+Scaling is a moving target. Scale defines the edge of today's capabilities. As it moves forward, capability increases. The reason for this is really simple: it’s because scale is not a goal to achieve; it is a definition of what you can do with the network today. The moment you increase the capacity, the very definition of what you can do with a network today changes because somebody says, “Hang on a second. You mean I can now do _x_, which has 10 times more demand than what I did before? Let's do some of that." And then, you fail to scale again. Scaling is a moving target. Scale defines the edge of today's capabilities. As it moves forward, capability increases.
+
+____
+"Scaling is a moving target. Scale defines the edge of today's capabilities. As it moves forward, capability increases."
+____
+
+Bitcoin is failing to scale. If we're really lucky, bitcoin will continue to fail to scale gracefully for 25 years, just like the internet. ((("scaling", "bitcoin")))The very same types of companies that then were saying the internet can never work for all of the email, it can never work to do quality voice calls, it can never work to do quality video, are now making the same kind of corporate arguments about why bitcoin can never do retail payments, it can never do Visa scale, it can never do global scale, and if it's actually adopted, it will collapse. Right now, there are a dozen people writing their Ph.D. theses on how bitcoin will fail, has failed, is dying, was dead, and has died again.
+
+____
+"Bitcoin is failing to scale. If we're really lucky, bitcoin will continue to fail to scale gracefully for 25 years, just like the internet."
+____
+
+There is a beautiful site called bitcoinobituaries.com where you can read the pronouncements of the death of bitcoin since 2009 -- regularly, like clockwork every three to six months, major newspapers, scientists, etc., saying, "That's it. Bitcoin is dead." In fact, this has now become an amazing recruitment opportunity because all you have to do is wait for people to hear that bitcoin died, the CEO of Bitcoin was arrested, or bitcoin was shut down by Putin, and then, four months later, someone says, "You know there are some interesting new applications on bitcoin." And they go, “Bitcoin is still there?"
+
+“Bitcoin is still there” is the marketing slogan of this community. If we can just keep doing “bitcoin is still there,” people are surprised, they're confounded. It doesn't match their expectations. It’s not possible that bitcoin is still there because very serious people with very serious titles, working for very rich companies, told them that bitcoin was not going to be there. But bitcoin is still there, because we are failing to scale gracefully.
+
+==== Fee Optimization and Scaling
+When we fail to scale during a stress test or a capacity test, when the network is flooded with transactions, what happens? Some users experience a terrible situation. They do a transaction with a 0.1 millibit fee like they've always done, and it takes three days to confirm. During that time, they’re freaking out, especially if they're new users. Because new users assume that the money has left their account (there are no accounts in bitcoin) ((("accounts")))and is en route to the destination account (again, there are no accounts in bitcoin), and therefore is somewhere in limbo in between. The money is really still in their account; it’s just that their wallet says it hasn't been confirmed yet. It’s either at the source or at the destination, atomically with one transaction. There is no intermediate state. It can’t be in limbo because bitcoin doesn’t transmit, it settles.((("settlement")))
+
+We experience these sudden problems, and some wallets behave intelligently and they increase their fees, sometimes by 100 percent. ((("fees")))What this means is instead of it costing 4 cents to send a global transaction in seconds anywhere around the world with full censorship resistance and open innovation and open access to everyone, it takes 8 cents to send that transaction! Clearly, this is an indication, together with the people who waited three days to confirm their transaction, that bitcoin is surely dead now. And some of the developers say, "Oh, I give up. Bitcoin is dead." The newspapers write, "Bitcoin is dead. Transactions are not going through."
+
+Transactions _are_ going through. They went through for me. I was running a wallet that was intelligent; it was doing its transaction-fee calculations. ((("fees")))What happens in the aftermath of this capacity crunch? We get better wallets.((("innovation", "wallet")))
+
+That's really the essence of a dynamic system responding to pressure because, as we get better wallets, these better wallets calculate fees more correctly. And it’s a lot easier to jam the network if there are a lot of dumb wallets doing 0.1 millibit fees, but then, all you have to do is do 0.11 millibit fees and you are king of the hill. Because the other idiots didn't update and jammed the network with their transactions. But if they're able to do 0.12 millibits, now you'll have to do 0.13. Now, we're in a race, and before you know it, you're spending 0.5 millibits, oh dear, on a transaction which of course, if you're a legitimate user, is nothing. If you’re trying to jam the network, it starts getting really expensive, really fast. ((("spam"))) ((("transactions")))
+
+=== Spam Transactions, Legitimate Transactions, Illegitimate Transactions
+Which brings up an interesting question: What is a spam transaction? ((("spam")))What is a legitimate transaction? What is an illegitimate transaction? There are two ways to answer this. One is a paternalistic, top-down approach that says, this is what is allowed, this is what is not allowed, and by making a list, we will prevent the network from filling to capacity. But that breaks the fundamental capability of bitcoin, which is net neutrality. ((("neutrality")))Bitcoin doesn’t care who the sender or the receiver is, what the application is, what the value of the transaction is. All it cares about is, did you pay the fee? ((("fees")))If you paid the fee, your transaction is legitimate by definition because you thought it was legitimate enough to attach that fee. The very act of paying the fee legitimizes the transaction. If we start making decisions about what is spam and what is not, we are now choosing the future of bitcoin and constraining it into a set of applications that we can imagine. The brilliant person who creates the application we _can’t_ imagine—that may look like spam to us—doesn't get carried across the network because we made a top-down decision to say that transaction is illegitimate.
+
+____
+"The very act of paying the fee legitimizes the transaction. If we start making decisions about what is spam and what is not, we are now choosing the future of bitcoin and constraining it into a set of applications that we can imagine."
+____
+
+The other way to do this is to say, how about we use a market to solve this problem. We have a market. We have a currency. Use the market to solve this problem: allow the market to establish the minimum fee that meets the requirements of supply through the miners and their need to propagate blocks fast, and the demand of the users for the applications they care about. If you pay the fee, your transaction is legitimate. There is no spam transaction. There is no such thing as an illegitimate transaction. There are only transactions that did get mined and transactions that didn't have enough fee to get mined.
+
+=== Decades of Failing to Scale
+This is how bitcoin is going to play out. This is not going to be solved; we will have the scaling discussion every year for decades into the future, hopefully. Every year, we will fail to scale for the next application and succeed to scale for the previous ones. As soon as we do better, people will invent new applications and we will fail to scale again.
+
+____
+"Every year we will fail to scale for the next application and succeed to scale for the previous ones."
+____
+
+The internet: failing to scale gracefully for 25 years. Bitcoin: let's keep failing to scale gracefully, and bitcoin is not yet dead.
+
+Thank you.

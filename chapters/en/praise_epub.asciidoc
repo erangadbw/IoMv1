@@ -1,0 +1,32 @@
+[dedication]
+== {nbspc}
+
+*Praise for The Internet of Money*
+
+_I've always wondered what would have happened if we had built one-click payments into the browser from the very beginning. With bitcoin, we finally get this 'Internet of Money'. But this book isn't just an ode to bitcoin -- it's an ode to open protocols, what happens when you connect people online, and the power of innovation on the internet._
+
+-- Marc Andreessen, co-founder Netscape and Andreessen Horowitz
+
+{nbsp}
+{nbsp}
+
+_With Mastering Bitcoin, Andreas M. Antonopoulos wrote one of the best technical books on digital currency. With The Internet of Money, he's matched that feat by compiling his talks into one of the best books on Bitcoin for a broad audience. Highly recommended!_
+
+-- Balaji Srinavasan, CEO 21.co
+
+{nbsp}
+{nbsp}
+
+_Over the past three years, awareness of the sweeping, transformative potential of bitcoin and its underlying blockchain technology has grown exponentially. That required people to grasp not only how this unorthodox technology worked but also its profound promise for society. No one has done more than Andreas Antonopoulos to get them over that hurdle. Read him. It will make you wiser._
+
+-- Michael J. Casey, co-author _The Age of Cryptocurrency: How Bitcoin and Digital Money are Challenging the Global Economic Order_
+
+{nbsp}
+{nbsp}
+
+_Reading this collection of talks, it’s amazing to contemplate that Andreas was waxing poetic and profound years before hardly anyone had even heard of Bitcoin. In fact, I’ll bet history will remember that there was no one who played a more important role in the early days of explaining Bitcoin, what it is and what it means._
+
+-- Don Tapscott, co-author _Blockchain Revolution: How the Technology Behind Bitcoin is Changing Money Business and the World_
+
+{nbsp}
+{nbsp}

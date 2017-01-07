@@ -1,0 +1,93 @@
+== Dumb Networks, Innovation, and the Festival of the Commons
+
+_O'Reilly Radar Summit; San Francisco, California; January 2015_
+
+Video Link: https://www.youtube.com/watch?v=x8FCRZ0BUCw
+
+_At the beginning of the video, Andreas thanks O'Reilly for agreeing to publish his book, Mastering Bitcoin, under an open-source license. He thanks the audience and the entire community who helped write the book. It's available on github, Amazon, and at bitcoinbook.info_
+
+Today, I want to talk about dumb networks. I want to talk about smart networks. I want to talk about the value of open source when it meets finance. And I want to talk about the festival of the commons. ((("festival of the commons")))
+
+____
+"Bitcoin is a currency, a network, a technology. And you can't separate these things."
+____
+
+Bitcoin is a currency. Bitcoin is a network. Bitcoin is a technology. And you can't separate these things. A consensus network that bases its value on currency does not work without the currency. ((("consensus")))You can't just do the blockchain without a valuable currency behind it, and the currency doesn't work without the network. Bitcoin is both. It is the convergence of a participatory consensus network and a global, borderless currency that is fungible, fast, and secure.   Today, I want to talk a bit about the bitcoin network and focus on one concept that has some parallels to the early internet.
+
+=== Smart vs. Dumb Networks
+Bitcoin is not a smart network. Bitcoin is a dumb network. It really is a dumb network. It is a dumb transaction-processing network. It’s a dumb network for verifying a very simple scripting language. It doesn't offer a complete range of financial services and products. It doesn't have automation and incredible features built in. ((("network", "dumb")))
+
+____
+"Bitcoin is simply a dumb network, and that is one of its strongest and most important features."
+____
+
+Bitcoin is simply a dumb network, and that is one of its strongest and most important features. When you design networks, when you architect network systems, one of the most fundamental choices is this: do you make a dumb network that supports smart devices, or do you make a smart network that supports dumb devices? ((("design")))
+
+==== The Smart Network - Phones
+The phone network was a very smart network. ((("network", "smart"))) The telephone at the end of that network was a very dumb device. If you had a pulse-dialing phone, that thing had maybe four electronic components inside it. It was basically a switch on a wire with a speaker attached to it. You could dial by flicking the hook up and down fast enough.
+
+ The phone was a dumb device; it had no intelligence whatsoever. Everything the phone network did was _in_ the network. Caller ID was a network feature. Call waiting was a network feature. And if you wanted to make the experience better, you had to upgrade the network but you didn't need to upgrade the device. That was a critical design decision because, at that time, the belief was that smart networks were better because you could deliver these incredible services just by upgrading the network for everyone.
+
+____
+"As a result of smart network design, innovation only happens when a feature is needed by all of the subscribers of the network, when it is compelling enough to disrupt the function of the entire network to upgrade it."
+____
+
+There is one small disadvantage with smart networks. They have to be upgraded from the center out. And that means innovation occurs at the center, by one player, and requires permission. ((("innovation", "permission")))As a result of smart network design, innovation only happens when a feature is needed by all of the subscribers of the network, when it is compelling enough to disrupt the function of the entire network to upgrade it.
+
+==== The Dumb Network - Internet
+The internet is a dumb network. ((("internet")))It's dumb as rocks. All it can do is move data from point A to point B. It doesn't know what that data is. It can't tell the difference between a Skype call and a web page. It doesn't know if the device on the end is a desktop computer or a mobile phone, a vacuum cleaner, a refrigerator, or a car. It doesn't know if that device is powerful or not. If it can do multimedia or not. It doesn't know, it doesn't care.
+
+____
+"In order to run a new application or innovate on a dumb network, all you have to do is add innovation at the edge. Because a dumb network can support smart devices, you don't need to change anything in the network."
+____
+
+In order to run a new application or innovate on a dumb network, all you have to do is add innovation at the edge. Because a dumb network can support smart devices, you don't need to change anything in the network. If you push intelligence to the edge of the network, an application that only has five users can be implemented so long as those five users upgrade their devices to implement that application. The dumb network will transport their data because it doesn't know the difference and it doesn't care.
+
+==== Bitcoin's Dumb Network
+Bitcoin is a dumb network supporting really smart devices, and that is an incredibly powerful concept because bitcoin pushes all of the intelligence to the edge.
+
+It doesn't care if the bitcoin address is the address of a multimillionaire, the address of a central bank, the address of a smart contract, the address of a device, or the address of a human. It doesn't know. It doesn't care if the transaction is carrying lots of money or not much money at all. It doesn't care if the address is in Kuala Lumpur or downtown New York. It doesn't know, it doesn't care.((("neutrality")))
+
+It moves money from one address to another based on a simple locking script. And that means that if you want to build a new application on top of bitcoin, you can upgrade the devices and you can build an application. You don't need to ask for anyone's permission to innovate. ((("innovation", "permissionless")))Write the app, launch it on your endpoint, and bitcoin will route it, because bitcoin is a dumb network.
+
+That is the power of innovation on the internet. It's innovation without permission. It's innovation without central approval. It's innovation without a broad network upgrade. And that means bitcoin is not a specific financial network. It's not a financial network for large transactions or small transactions, fast transactions or slow transactions. It's whatever you want to use it for, based upon what you choose to do at the endpoint.
+
+Compare that to the current banking system. ((("banking")))The current banking system is built around very smart networks, absolutely and tightly controlled to deliver very specific applications to very dumb endpoints. Even with your most sophisticated online banking, all you can do with your bank is access some HTML that delivers a set of services that they decided they were going to give you. You get no APIs, no ability to run additional applications, no ability to upgrade or innovate or change anything unless the entire network changes to support your new application. ((("permissioned")))The current system has networks for large payments, small payments, or fast payments, but it's not all of the above. Bitcoin is all of those things because it's not discriminating, it's neutral, it doesn't care, it's dumb.
+
+____
+"The current system has networks for large payments, small payments, or fast payments, but it's not all of the above. Bitcoin is all of those things because it's not discriminating, it's neutral, it doesn't care, it's dumb."
+____
+
+The power of pushing intelligence to the edge, of not making decisions in the center, moves the innovation into the hands of its end users and gives those end users the ability to build applications that are so niche that only a handful of people around the world need them. And they can build those applications without asking for anyone's permission.
+
+=== Tragedy of the Commons
+But there's one more thing that's really unique about bitcoin, and it's one of the reasons that it continues to survive and continues to win over the centralized, closed networks of the past, and that is that bitcoin is open source, open standard, and open network.
+
+One of the key concepts in economics is the idea of a tragedy of the commons. ((("commons", "tragedy")))((("economics")))This is when you have a common resource that can be consumed, without limits, by all those who participate until the resource is depleted and the entire system collapses. It's a form of market failure called “the tragedy of the commons.” The most common example of it is the commons, in the old British sense, of a large grassy area. Here you have a field that everyone can graze their cattle on, and if everybody goes and grazes their cattle with reckless abandon, before long, you have a big muddy pit and no cattle. Because everybody overgrazes it, the resource is depleted.
+
+=== Festival of the Commons
+Bitcoin doesn't suffer from a tragedy of the commons like most financial networks do. I can't innovate on somebody else's network. When Visa innovates, only Visa wins. When MasterCard innovates, only MasterCard wins. If a feature is deployed on SWIFT, I don't get it as a consumer. If Bank of America makes something new and snazzy, they do it competitively and at the exclusion of every other bank that didn't implement that feature. ((("innovation", "banking"))) ((("competition")))
+
+Bitcoin is a common resource whose use increases the value of that resource, at the exclusion of no one. ((("commons", "festival")))If a company builds a new feature that can be used on bitcoin under an open-source license, that feature can then be used by everyone in the ecosystem. That means the innovation enriches everyone in the network. If a company invests money in bitcoin, the protocol, they benefit, but so does everybody else. When they play in the bitcoin sphere, they get to benefit from everybody else's investment in that space. So, it returns multiple times. You get this wonderful synergy where each company that invests in this amazing technology makes it better for everybody else. It's not an exclusionary principle; instead of a tragedy of the commons, you have a festival of the commons. A commons that gets better when more companies use it. ((("competition")))
+
+____
+"It's not an exclusionary principle; instead of a tragedy of the commons, in bitcoin you have a festival of the commons. A commons that gets better when more companies use it."
+____
+
+==== Festival of the Commons 2012-2014
+Just look at some of the examples. 2014 was supposed to be the worst year in bitcoin. But that's only if you're focused on price, because in 2014 we saw the deployment of two incredible technologies. The first is multisig, which required a tiny change to the core protocol but then allowed an enormous amount of services and products to be built at the edge. ((("innovation", "multisignature")))The second is hierarchical deterministic wallets, which didn't require any changes to the core and allowed us to have these incredibly complex and rich experiences in the wallet space. ((("innovation", "HD wallets")))
+
+The companies that invented and deployed those two features did so in 2012 and we reap the benefits today. An entire ecosystem of new products and services have been built from those two inventions. The value invested by one company two years ago blows up and creates an entire range of products in a new industry two years later.
+
+In 2014, during the worst year of bitcoin, 500 startups received $500 million in investment, generating tens of thousands of jobs, and none of that innovation has come back yet because they just started. ((("innovation", "investment")))All of the incredible technology advancements we saw in 2014 grew from inventions in 2012. Now, what happens when you throw 500 companies and 10,000 developers at the problem? Give us two years and you will see some pretty amazing things in bitcoin. And that is the advantage of the festival of the commons.
+
+=== Accelerating Innovation
+While journalists are writing yet another obituary for bitcoin, I see an ecosystem of openness. I see an ecosystem that is generating jobs in an economy that is mostly dead. I see an ecosystem that has some of the smartest people I have ever met creating the most amazing innovations. And the really amazing thing about this is that we all benefit from all of this. We're not really competing against each other. ((("community"))) ((("competition")))We are participating in the festival of the commons, and as a result we're seeing a rate of innovation that is accelerating. It's already at breakneck speed, and it's accelerating.
+
+Take an open, decentralized ecosystem with a festival of the commons -- open source, open standards, open networking -- and the intelligence and innovation pushed all the way to the edge so the users have control over what they innovate and how they invest their time and money and spirit into this technology. Put that against a closed system, controlled by a central provider, whose permission you need in order to innovate and who will only innovate at the exclusion and competition of all of the other companies. We will crush them.
+
+People ask me, "Well, what happens if Goldman Sachs builds GoldmanSachsCoin?” I say, let them build it. ((("altcoins")))If it's really open and decentralized, they just proved the whole point of this and we can all go home declaring victory. If it's closed and doesn't allow open innovation, it will become stagnant in just a few months while we continue accelerating ahead with more and more innovation feeding off each other's invention.
+
+You cannot stop this. That's why I'm excited to be in the bitcoin space: a dumb network that puts all of the intelligence and innovation at the edge so that we can innovate without asking anyone's permission, and we can participate in this incredible festival of the commons.
+
+Thank you.  

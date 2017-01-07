@@ -1,0 +1,89 @@
+== Elements of Trust: Unleashing Creativity
+
+_Blockchain Meetup; Berlin, Germany; March 2016_
+
+Video Link: https://www.youtube.com/watch?v=uLpSM3HWU6U
+
+Today, I'm going to talk about the chemistry of money, specifically the chemistry of bitcoin. ((("money", "chemistry of"))) This is one of the aspects of bitcoin that makes it so exciting and so interesting. It's one that most of us don’t even notice until we study bitcoin for a year or two. Bitcoin is a bit like an onion. You have to unwrap it. As you unwrap it, you find one more layer. I started five years ago. I am still unwrapping. I am finding more and more things that surprise me every day about bitcoin.
+
+=== The Illusion of Senders, Receivers, and Accounts
+When I first encountered bitcoin, I was surprised to see that it looked like a relatively familiar banking system. ((("banking")))I visited well-known bitcoin sites, like blockchain.info, and I could see transactions. I clicked on the transactions and I could see a sender, receiver, and account. I thought, _This is pretty familiar. Banking. Great._ Then, I decided to look at the source code and see how it worked.
+
+As a computer scientist, I figured I'd read the source code, and I'd try to understand how the system does these things.((("source code"))) But when I searched the source code for sender, receiver or account, I didn't find anything. ((("sender")))((("account")))((("receiver")))Because none of those things actually exist in bitcoin. That really surprised me because when I looked at the source code, none of the things that I expected to find there were actually there. You'd expect that a banking system, as it appeared to be, had been designed to do certain things in a very specific way. Bitcoin isn’t like that. It’s not like that at all.
+
+____
+"When I searched the source code for sender, receiver or account, I didn't find anything. Because none of those things actually exist in bitcoin."
+____
+
+How many of you have looked into the source code or understand the technical underpinnings? A few people in this room. When you dig through the code, you find there is no balance, no sender, but there is UTXO _unspent transaction outputs_ and there are inputs. But those inputs don’t really correspond to senders. And a transaction has outputs, which don't really correspond to receivers. Suddenly, you realize what you're looking at is almost this quantum or atomic nature of bitcoin.
+
+=== Bitcoin's Atomic Structure
+In chemistry, we have elements like copper, iron, and helium. ((("chemistry"))) ((("elements")))Chemistry gives you this enormous complexity of things that you can combine to make interesting things. Like people. And toasters. But when you dig into the chemistry, you realize copper isn’t a thing. Copper is a pattern of protons, neutrons, and electrons. There is no copper. One proton is the same as another proton; it can just as happily be part of helium or copper, it doesn't care. There is nothing about that specific proton that makes it part of copper.
+
+Chemistry is one layer, but underneath that is atomic physics. ((("atomic physics")))That layer is very simple. It has a handful of elements. This handful of just a few elements makes up all of the chemistry we know, 100+ elements in nature that all have unique and different properties, that are completely different. ((("elements")))Some of them are liquid, some of them are metals, some of them are gases. They behave differently. Some are acidic, some are not. But none of that is their basic makeup. These are just patterns.
+
+Bitcoin has this fundamental atomic structure, this elemental structure. The elements of bitcoin are the components of transactions and the elements of the scripting language. Those elements have nothing to do with traditional banking. There are no accounts and balances and senders and receivers. Instead, bitcoin's elements are looking for fundamental mathematical properties and cryptographic properties -- such as whether a hash is equal to another hash, whether an elliptic curve signature matches another elliptic curve signature, manipulation of numbers, etc., etc. What you see on the surface -- the transactions -- are just constructs. They're a specific way of mashing up the elements that creates something that kind of looks like a bank. Which is great because if you're new to bitcoin and someone tells you, "Well, there is an account, a sender, and a receiver,” you think, _Okay, I understand this._
+
+____
+"What you see on the surface -- the transactions -- are just constructs. They're a specific way of mashing up the elements that creates something that kind of looks like a bank."
+____
+
+Then you learn that you have a wallet, but your wallet doesn’t have coins, it has keys, and those keys could be copied, and now you're thinking, _You're losing me. This doesn't quite match my experience._ ((("wallet"))) Things get complicated because bitcoin isn't what you think it is. It’s a platform. ((("trust platform")))It’s not a payment network. It’s not a currency. It’s not a banking system. It’s a platform that guarantees certain trust functions. ((("trust")))If you happen to have a platform that guarantees certain trust functions, one very useful application for that is to build a currency and a payment network, but you can build more things.
+
+____
+"Bitcoin isn't what you think it is. It’s a platform. It’s not a payment network. It’s not a currency. It’s not a banking system. It’s a platform that guarantees certain trust functions."
+____
+
+==== Building Blocks of Lego
+When I was a child, my favorite toy was Lego. The reason my favorite toy was Lego was not because of what was on the box. Because I did not build what was on the box. If the box had a red firetruck, I would build a dragon, or a hippopotamus-giraffe, something that didn't exist or some strange idea that I had. That’s what I liked about it. I could take these basic building blocks, and I could build whatever I wanted.
+
+From an abstract perspective, Lego is messy. And the thing I built didn't quite look like a firetruck or a spaceship. If someone had given me a toy that was a firetruck, like a plastic-injected, smooth-edged, completed red firetruck, it would be the perfect firetruck. But it could only ever be a firetruck, and 20 minutes after I start playing with it, I am bored. Because my smooth, rounded firetruck that is only a firetruck, is a perfect firetruck. But it could never be a hippopotamus-giraffe or a tomato or a spaceship. But Lego allows more. ((("innovation", "creativity")))
+
+==== Building Blocks of Cooking
+As I grew older, I started getting into cooking as a hobby. What I loved about cooking is that it is the perfect combination of art and science. If you fundamentally understand how the ingredients work, how they behave, and how the chemistry changes when they're combined or when you add a catalyst like salt or when you apply heat to them, then you can create. You can create almost anything. As long as you understand how the ingredients work, you can execute and deliver anything you want to create. ((("recipe")))
+
+==== Building Blocks of Creativity
+Bitcoin encompasses that elemental nature. It doesn't give you a final result. It gives you a set of ingredients and a recipe. It gives you a set of Lego blocks and a photo on the box that looks like a red firetruck. When we present that to the world, the financial companies look at that and say, “Well, your firetruck has sharp edges and it’s made of silly little blocks.” In bitcoin, we take the ingredients, we put them together and we’ve made a banking payment system. The banks look at it and it's as if they’re saying to us, “Your burger is okay but at McDonald’s we can make it in 45 seconds and we can sell a billion of them. So, why do you need a chef, ingredients, a recipe, if you can just churn out a billion of them?" They’re missing the point.
+
+____
+"Bitcoin encompasses that elemental nature. It doesn't give you a final result. It gives you a set of ingredients and a recipe."
+____
+
+The point is not generating a billion copies of the same inferior product. The point is not getting the injection-molded plastic red truck that I am going to be bored of in 5 seconds. The point is unleashing my creativity by giving me the tools and the elements I need to build something unique. ((("innovation", "tools for")))
+
+I didn't build a burger as fast or cheap as McDonald’s, and my little red firetruck isn’t as smooth as the molded copy. But I can make albondigas with red tomato sauce. I can also make a hippopotamus-giraffe. You can't do that with a prefabricated toy. You can't do that in your McDonald's kitchen. I've unleashed my creativity.
+
+==== Building Blocks of Bitcoin
+We're beginning to see people realize that bitcoin is a set of ingredients and you have one recipe, but you can make a different recipe. People are now trying to recombine these ingredients.
+
+We're building crowdfunding projects by combining atomic transactions and input-versus-output sums and digital signatures. By combining these ingredients, we can create a single transaction that can be funded by multiple people, but the transaction will only be valid if the threshold funding is met. Those are the same elements I use to make a payment of a dollar to you over bitcoin's payment network, but you can recombine them differently and now you've got a crowdfunding platform. ((("crowdfunding")))
+
+We're building payment channels by combining 2-of-2 signatures, multisignature, with transaction time locks. This allows us to charge for video-streaming by the second. That’s a whole new recipe. ((("payment channels"))) ((("transaction", "time lock"))) ((("transaction", "multisignature")))
+
+We're building on top of payment channels. By taking them and adding a new ingredient, Hash Time Locked Contracts, we can connect multiple channels together. Then we've got Lightning Network, and that’s a new recipe that nobody has ever seen before. ((("lightning network")))
+
+____
+"We’re trying to unleash the creativity of an entire generation. We're building a system, on top of which a thousand applications that require trust can be built."
+____
+
+The banks are saying, “Your truck has sharp corners and your burger is too expensive and took more than 45 seconds." What they’re really saying is, “Your transaction fees are too high and you're too slow and you can’t possibly scale." _They're missing the point._ The point is that we're not trying to sell a billion burgers at 45 seconds each; we’re trying to unleash the creativity of an entire generation. We're building a system, on top of which a thousand applications that require trust can be built.
+
+=== Focus-Group Economies
+When you have the ingredients, when you have these basic elements, what recipe you build is entirely up to you. Because when they build the little red firetruck, they create an entire factory that can only do little red firetrucks. I'm sure they'll tell you, “Listen, our statistics say that 95 percent of children want a little red firetruck. We have tested this with focus groups and the marketing teams. We can produce them by the millions. They only cost 3 cents. They have a very small amount of lead paint and poisonous, toxic, carcinogenic hydrocarbons, not a problem. We can do that very cheaply and very profitably." And they can only build firetrucks.
+
+When you build a kitchen like McDonald’s, you can churn out burgers every 45 seconds, but you can't make albondigas. You can't make something else. You are streamlined to do one thing and one thing only, and as long as that serves your profit line, it’s okay. Because I am sure you focus-group tested it to make sure that is what everybody wanted.
+
+That is a terrible way to build an economy. That’s a terrible way to build a financial system. That’s a terrible way to build a payment network.
+
+=== Banking Privilege and Surveillance
+Effectively, what the banks are saying to us is, "We focus tested this. What people want is the ability, instead of swiping their Visa card, to wave it over the reader, saving almost two seconds and reducing their effort by at least four calories. I mean, we could deal with the 4 billion people who have no access to banking or clean water. We could deal with the fact that our world is a fragmented mess, where the vast majority of humanity have no access to financial services. Or, we could reduce the shopper's effort and make a swipe card into a float card. ((("innovation", "banking"))) ((("inclusion")))
+
+We could face the fact that the reason more than 4 billion people are unbanked is because we require everyone to be identified on every side of every transaction, so that we can build a totalitarian surveillance system that the Stasi would be jealous of, to monitor every financial transaction from every corner of the planet. Because we have persuaded ourselves that our bourgeois sense of security will be protected, not by solving poverty, and not by reducing, perhaps, the bombing of other countries, but instead, by watching everyone all the time when they buy a burger—just in case. ((("surveillance"))) ((("identity")))
+
+We subject ourselves to this mechanism that has now streamlined itself, and like the factory that can only produce little red firetrucks, this is a system that can only deliver privileged financial services for a tiny elite sliver of the population worldwide, with totalitarian surveillance tied up in regulations of each country, with barriers on the borders not permitting international trade. A financial system where the government can apply pressure to stop you trading with WikiLeaks, because they don't like them, but you can still send donations to the Ku Klux Klan—and that's not a joke. That’s exactly what happened.
+
+They have built a system that can only do one thing: enslave us. That can only do one thing: impoverish us. That system removes freedom in the most efficient possible way to deliver profits. ((("freedom")))That system is broken, and it doesn’t scale. But if that is what you're trying to do, it’s the most efficient you've ever seen.
+
+By comparison, the crazy little mishmash system that we’ve built with bitcoin, that’s wrong and it's slow and it can’t scale. It's inefficient and it’s not as serious and sophisticated as the international banking system. But it delivers freedom and it allows us to unleash creativity.
+
+Thank you.

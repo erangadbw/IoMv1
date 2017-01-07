@@ -1,0 +1,123 @@
+== What Is Bitcoin?
+
+_Disrupt, Start-up, Scale-up; Athens, Greece; November 2013_
+
+Video Link: https://www.youtube.com/watch?v=LA9A1RyXv9s
+
+_Reader note: This talk was given in late 2013. Bitcoin transactions are no longer free but fees are minimal. Currently, transaction fees are approximately 10 cents per transaction, regardless of the monetary value of the transaction._
+
+Good afternoon, Athens! Thank you for having me today. You want _disrupt_? I've got disrupt. I've got downright revolution. Today, we're going to talk about the most exciting, most interesting, and probably the most important technological invention in computer science of the last 20 years. I'm here to talk about bitcoin.
+
+Bitcoin is digital money, but it's so much more than that. Saying bitcoin is digital money is like saying the internet is a fancy telephone. It's like saying that the internet is all about email. Money is just the first application. Bitcoin is a technology, it is a currency, and it is an international network of payments and exchange that is completely decentralized. It doesn't rely on banks. It doesn't rely on governments.
+
+____
+"Saying bitcoin is digital money is like saying the internet is a fancy telephone."
+____
+
+We have never done this before in the history of humanity. This invention is truly revolutionary. When we look back, we will see that this is a historic moment in the evolution of computer science, but it is also a social and political revolution in the making. So, let's get started.
+
+=== Bitcoin, the Invention
+Bitcoin is digital money. It is money just like euros or dollars, only it's not owned by a government. You can send it from any point in the world to any other point in the world instantaneously, securely, and for minimal or no fees at all. Two days ago, we saw one of the largest transactions ever recorded on the bitcoin network, where someone transferred $150 million between two bitcoin accounts, in one second, for zero fees. ((("transaction", "fees")))Just that allows you to grasp how disruptive this technology is going to be in terms of international payment systems. But this is just the beginning.
+
+Bitcoin is a digital currency that came into existence in 2008 as an invention by a person called Satoshi Nakamoto. He published a paper where he posited that he had found the way to create a decentralized network that could achieve consensus, agreement, without any central controlling authority. ((("consensus")))Now, if you have studied computer science or distributed systems, this is known as the _Byzantine Generals’ Problem_. It was first described in 1982. Until 2008, it was an unsolved problem. Then, Satoshi Nakamoto said, "I have solved it." Guess what happened next? Everybody laughed, ignored him, and dismissed him. He published his paper, and three months later, he published software that allowed people to start building the bitcoin network.
+
+Bitcoin is not a company. It is not an organization. It is a standard or a protocol just like TCP/IP, or the internet. ((("internet")))It's not owned by anyone. It operates by simple mathematical rules that everyone who participates in the network agrees on. Through this simple mechanism, through this invention of Satoshi Nakamoto, bitcoin is able to allow a completely decentralized network of computers to agree on what transactions have occurred on a network, essentially agreeing on who currently has the money. ((("consensus")))
+
+So, if I send money from my account to somebody else's account in this peer-to-peer, completely decentralized network, it's just like sending an email. There's no one in the middle. Every ten minutes, the entire network agrees on what transactions have happened, without any centralized authority, by a simple election that occurs electronically.
+
+This particular solution, this invention, is far more important than currency. Currency is just the first app—just the first application that you can build on a distributed consensus system. Other applications include distributed fair voting, stock ownership, asset registration, notarization, and many other applications we've never thought of before.
+
+____
+"This particular solution, this invention, is far more important than currency. Currency is just the first app."
+____
+
+I discovered bitcoin for the first time in 2011, and since the internet, I have not felt so completely overwhelmed by the possibilities that I saw. I was there at the dawn of the internet in 1991 when it was pre-commercial. I could see that this was going to change the world but no one believed me. I have that exact same feeling about bitcoin.
+
+Now, some of you may have heard of bitcoin, as a currency, is wildly high in price one day and wildly low in price the next. I'm here to tell you to ignore the price, to ignore bitcoin the money, and understand bitcoin the technology, the invention, and the network it creates. If we mess up the money, we'll just reboot another currency. The invention of bitcoin, the technology that makes it possible, cannot be uninvented. It creates the possibilities for decentralized organization on a scale never before seen on this planet.
+
+____
+"The invention of bitcoin, the technology that makes it possible, cannot be uninvented. It creates the possibilities for decentralized organization on a scale never before seen on this planet."
+____
+
+=== Money of the People
+Here's why bitcoin is important to me.
+
+Approximately 1 billion people currently have access to banking, credit, and international finance capabilities—primarily the upper classes, the Western nations. Six and a half billion people on this planet have no connection to the world of money. They operate in cash-based societies with very little access to international resources. ((("banking", "inclusion")))They don’t need banks. Two billion of these people are already on the internet. With a simple application download, they can immediately become participants in an international economy, using an international currency that can be transmitted anywhere with no fees and no government controls. They can connect to a world of international finance ((("international finance")))that is completely peer-to-peer. Bitcoin is the money of the people. At its center are simple mathematical rules that everyone agrees on and no one controls. The possibility of connecting these 6 1/2 billion people to the rest of the world is truly revolutionary.
+
+_____
+"Bitcoin is the money of the people."
+_____
+
+Payment processors are going to be affected. ((("payment", "global")))((("remittances")))These enormous companies charge higher fees to send money to poorer destination countries, a situation that is exploitative and corrupt. These organizations make enormous profits for a function that can be done in bitcoin nearly for free. As the adage of the entire internet once went, “I just replaced your entire industry with 100 lines of Python code,” that’s exactly what we’re doing with bitcoin.
+
+=== Currencies, Businesses, and International Payments
+How can you use bitcoin today? Simply speaking, bitcoin can operate as a currency. You can think of it as buying a foreign currency: You can connect to an exchange over the web, wire some euros, and use those euros to buy bitcoins at the current exchange rate. Yet, that’s not really the best way to do it. We’re entrepreneurs, right? We want to disrupt. The best way to do it is to find a product or service that you can offer that someone with bitcoin wants to buy, and start _earning_ bitcoin.
+
+==== Solving Payment Problems
+If you think about starting up a business in an international environment, there are two primary barriers to becoming a global business. The first barrier is that it is difficult to transport products and services across borders. With the internet, we solved that. We can now create products and services that are virtual, ones that we can sell anywhere in the world. So, we can deliver the product, but we still have one big problem: How do we get paid? Bitcoin solves that part. It allows us to receive payments from anywhere in the world, instantaneously. ((("payment", "global")))The bitcoin network allows any individual to send an amount that is as small as 100-millionth of a bitcoin, which in today’s terms is a very tiny amount of money. ((("micropayments")))You can’t do that with today’s money and payment systems. Credit cards were made in the 1950s, and they were most certainly not made for an internet age. Bitcoin is made for the internet age.
+
+____
+"Credit cards were made in the 1950s, and they were most certainly not made for an internet age. Bitcoin is made for the internet age."
+____
+
+So, if you can suddenly send payments that are one-hundredth of a euro, or one-thousandth of a euro, you can sell content. You can do microtransactions. ((("micropayments"))) ((("transactions", "microtransactions")))You can collect payments from millions of people in tiny amounts and make them, in aggregate, be worth something. On the same network where you can send one-thousandth of a euro or one-millionth of a euro, you can send a billion euros or a trillion euros. The fee will be exactly the same, because fees depend on the size of the transaction in kilobytes, not on the amount or content.
+
+=== Neutrality, Criminals, and Bitcoin
+Let’s look back at the internet and see what lessons we can learn about why bitcoin is important. One of the most important principles of the internet is neutrality. The internet does not distinguish between a large organization and a small organization. It does not know the difference between CNN and an Egyptian blogger. It allows the Egyptian blogger to speak to the world with the same power of voice that CNN has.
+
+Bitcoin is neutral to the sender, the recipient, and the value of the transaction. That means it gives every citizen, every user of bitcoin, the ability to innovate in terms of financial instruments, payment systems, and banking. You can operate on the same level as Citibank. That is truly revolutionary.
+
+____
+"Bitcoin is neutral to the sender, the recipient, and the value of the transaction. That means it gives every citizen, every user of bitcoin, the ability to innovate in terms of financial instruments, payment systems, and banking."
+____
+
+It takes a hierarchical system of international finance and turns it on its head. Up to now, that hierarchical system has achieved security by limiting access, because that is the main method of trust in our payment systems—you can’t get in unless you’re vetted. Bitcoin creates a completely flat and decentralized network where every node is equal, where the protocol is neutral to the transactions, and it pushes innovations to the edge of the network, allowing exactly the same phenomenon we saw on the internet: innovation without permission. ((("internet"))) ((("innovation", "permissionless")))You don’t need to ask anyone if your application can be published on the internet. You don’t need to ask anyone to completely subvert a new industry with your information technology. On bitcoin, you don’t need to ask anyone to invent a new financial instrument, a new payment system, a new service. You can just do it. You can just write the code, and you are now part of an international financial network that can run that code and put you in contact with millions of consumers.
+
+____
+"On bitcoin, you don’t need to ask anyone to invent a new financial instrument, a new payment system, a new service. You can just do it."
+____
+
+Now, it’s still early days. We don’t yet have the polished interfaces. It’s difficult to use. It’s used by criminals. It’s used by various organizations around the world, and it’s not easy to see exactly who is using bitcoin. I’ve heard all of that before. When I was on the internet back in 1991, it was a den of thieves, pornographers, pirates, and criminals. But it didn’t matter then, and it doesn’t matter now. It doesn’t matter because the same powerful technology that can be used by a criminal to promote their criminal activities can also be used by all of the rest of us to do good, to do incredible things all across the world. And there are more of us than there are of them.
+
+Bitcoin creates an environment that is ripe for innovation, because it’s not just a currency; it’s a technology, a network, _and_ a currency. I can tell you today that I’m very happy that bitcoin’s price is climbing very high, because I own some bitcoin and it feels kind of nice. But I don’t care about the price. If bitcoin crashed tomorrow morning, the technology is still revolutionary. Just like if a website fails on the internet, or an application fails on the internet, the internet doesn’t go away.
+
+____
+"Bitcoin creates an environment that is ripe for innovation, because it’s not just a currency; it’s a technology, a network, _and_ a currency."
+____
+
+=== Bitcoin as a Mechanism to Opt In and Opt Out
+If you understand that bitcoin is a technology and not just a currency, you can truly grasp the importance it has. Again, it’s not about us. It is about the other 6 1/2 billion. It is about the ability to bring to the world a level of financial integration that the world has never seen before. From our perspective in the privileged world, it is a great technology. We can do some disruptive innovation. We can build some interesting services. But if you’re a Kenyan farmer who’s trying to raise money in order to buy seed, and now you can do decentralized peer-to-peer lending and reach out to lenders from all across the globe, this is not just a technology—this is truly life-changing.
+
+____
+"Bitcoin is about the ability to bring to the world a level of financial integration that the world has never seen before."
+____
+
+The vast majority of the world lives under repressive and corrupt regimes with central banks that impose hyper-inflation at 30 percent a month. It’s much more important to see how bitcoin can affect all of those people. There are 2 billion people on the internet and only 1 billion of them have bank accounts. We can change that. It’s not going to be easy, make no mistake about it. When you throw a disruptive technology in the middle of the most powerful organizations on the planet, they don’t like it. Right now, we’re still in the early stages. To use the trite expression, “First they ignore us, then they laugh at us, then they fight us, then we win.” We’re still at the laughing-at-us stage. That’s quite all right, because by the time they get to fighting us, they’ve already lost. This technology just went global with the introduction of more than $2.5 billion from Chinese investors who discovered a counterbalance to the world domination of the global reserve currency of the US dollar.
+
+==== Altcoins: Currencies for Everyone
+There are almost 200 currencies of the world, but there’s only one international currency. There are almost 200 currencies controlled by central banks and governments, but there is only one mathematical currency today, and that is bitcoin.
+
+____
+"Cryptographic currencies are going to be a mainstay of our financial future. You cannot un-invent this technology. You cannot turn this omelette back into eggs."
+____
+
+We are going to build more of them. Cryptographic currencies are going to be a mainstay of our financial future. They are going to be a part of the future of this planet because they have been invented. It’s as simple as that. You cannot un-invent this technology. You cannot turn this omelette back into eggs. We already have over 100 competing currencies in the space, which shows how quickly innovation has exploded, even beyond bitcoin the currency. ((("altcoins")))There are many other alternative currencies -- altcoins, as they’re known—that use the same basic technology of a decentralized asset ledger using consensus in the network with Satoshi’s algorithm. Some of these currencies are inflationary, some deflationary, some use demurrage or negative interest rates, some are charitable and redistribute a proportion of the income to charitable organizations.
+
+We can invent money nonstop and create new forms of money and financial instruments.
+
+_____
+"At the end of the day, bitcoin is programmable money. When you have programmable money, the possibilities are truly endless."
+_____
+
+=== Programmable Money for All of Us
+At the end of the day, bitcoin is programmable money. When you have programmable money, the possibilities are truly endless. We can take many of the basic concepts of the current system that depend on legal contracts, and we can convert these into algorithmic contracts, into mathematical transactions that can be enforced on the bitcoin network. As I’ve said, there is no third party, there is no counterparty. If I choose to send value from one part of the network to another, it is peer-to-peer with no one in between. If I invent a new form of money, I can deploy it to the entire world and invite others to come and join me.
+
+____
+"Bitcoin is the internet of money. Currency is only the first application. At its core, bitcoin is a revolutionary technology that will change the world forever."
+____
+
+Bitcoin is not just money for the internet. Yes, it’s perfect money for the internet. It’s instant, it’s safe, it’s free. Yes, it is money for the internet, but it’s so much more. Bitcoin is the internet of money. Currency is only the first application. If you grasp that, you can look beyond the price, you can look beyond the volatility, you can look beyond the fad. At its core, bitcoin is a revolutionary technology that will change the world forever.
+
+Join me in the revolution.
+
+Thank you.

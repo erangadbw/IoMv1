@@ -1,0 +1,148 @@
+== Innovators, Disruptors, Misfits, and Bitcoin
+
+_Maker Faire; Henry Ford Museum, Detroit Michigan; July 2014_
+
+Video Link: https://www.youtube.com/watch?v=LeclUjKm408
+
+_Just before this presentation began, attendees viewed a video presented by the museum about the history of the automobile. That is the video referenced throughout this talk._
+
+Good morning. Now that was a fun video, wasn't it? About a month ago, I sold my car for bitcoin. That was an interesting experience, a whole new world. How many here have bitcoin? Of those who don't, how many of you have heard of bitcoin? _95% of audience has heard of bitcoin._ Anybody who has not heard of bitcoin? Okay, great, this is going to be a lot easier than I thought.
+
+=== Recognizing Innovation
+Bitcoin is the internet of money, but it's a lot more than that. For this audience in particular and for the people who are here at the Maker Faire, I want to talk about bitcoin from the perspective of the misfits, the weirdos, the freaks. The people who refuse to think the way everybody else thinks. ((("innovation", "makers")))The people who see a half-working, elegant technology and don't look at the _half-working_; they look at the _elegant_ side. They recognize innovation. And they recognize innovation, not just a few months or a few years before others, but sometimes a decade before others. Those are the kinds of people that come to Maker Faire. And so it’s a great place to start talking about bitcoin.
+
+Bitcoin is unexpected. Bitcoin is not money as we know it. Bitcoin should not have happened. Bitcoin really has no possibility of success. It can't possibly work. It's one of those things that does not work in theory, but it works in practice. Like Wikipedia. Like Linux. Like the internet. Weird ideas made by people with ponytails and neckbeards. Weirdos nobody really trusts.
+
+Bitcoin succeeds because it works. As a technology, it's elegant. I want to talk about that spirit of the misfit. About walking into an industry boardroom saying, "You know what? We're about to change everything,” and being laughed out of the room. Then, keeping on and going on, until, in fact, they change everything. This happens in technology all the time. We just forget about it. We ignore it. We rewrite the history in glowing terms. ((("innovation")))
+
+=== The Dangers of Automobiles, Electricity, and Bitcoin
+We just watched a video about the early automobile. ((("innovation", "automobiles")))Do you know what the media said about the early automobile? They ridiculed cars. They mocked cars. ((("innovation", "criticism")))Cars were slower than horses. Cars broke down all the time. Cars needed expensive gasoline that you couldn't find anywhere. They required enormous amounts of infrastructure to work. The media focused on the part of the story that sold the most papers: car accidents, pedestrians mangled by cars. For more than two decades from the first cars, the story was that of infernal, disgusting, dirty, noisy machines that were far inferior to horses, that couldn't go anywhere, that only weirdos would use, and that, most of the time, killed the occupants and everyone who came anywhere near them.
+
+____
+"For more than two decades from the first cars, the story was that of infernal, disgusting, dirty, noisy machines that were far inferior to horses, that couldn't go anywhere, that only weirdos would use, and that, most of the time, killed the occupants and everyone who came anywhere near them."
+____
+
+This hysteria got so bad that in 1865 in the UK, they passed a law called the Red Flag Act. ((("regulation")))The Red Flag Act required that any operator of a vehicle have three crew members on staff: a driver, an engineer, and a flagman. The driver would operate the vehicle, the engineer would supervise that operation (think railroads), and the flagman would carry a red flag and run 100 yards ahead of the car to warn pedestrians of the imminent arrival of an infernal death machine that was going to mow them down.
+
+Guess what happened to the UK? They lost the automobile-industry race because they saw that technology and, instead of seeing potential, they allowed fear to define their reaction. They created an environment where a car could not do the things that a car can do. If you make a car go as slow as the pedestrian who's running ahead of it with a red flag, you lose all of the advantages of a car. If a car requires a three-person crew to operate, you lose the advantages of a car. They tried to take the car and understand it from the perspective of railroads and horses. They failed. They lost the race.
+
+What you didn't see in this video is that until that time, they were winning. The first really practical cars were built in England. They had already won the race in the Industrial Revolution with the steam engine. At that time, England was a powerhouse of industrial innovation. They were winning, until they decided that this dirty machine should be confined to a very limited space and set of rules. They killed the goose. No more golden eggs for them.
+
+____
+"The first really practical cars were built in England... At that time, England was a powerhouse of industrial innovation. They were winning, until they decided that this dirty machine should be confined to a very limited space and set of rules."
+____
+
+That is instructive because this happens again and again in technology. When electricity was first domesticated and people started electrifying their homes, do you think the media announced, "This is brilliant! Edison's a genius! This is going to change the world!”? No. What they said was that this was dangerous technology that would burn down people's homes. They ran story after story after story about people getting electrocuted, about homes burning down.
+
+____
+"When electricity was first domesticated and people started electrifying their homes, do you think the media announced, 'This is brilliant! Edison's a genius! This is going to change the world!'? No. What they said was that this was dangerous technology that would burn down people's homes."
+____
+
+Of course, you couldn't really use electricity because it required a complete overhaul of your house. You had to put wires in your house, the wires that would burn it down. You'd have to buy special devices to connect to these wires, just before your house burned down. Only the rich could afford it. Clearly, this was a technology that was just an affectation of the rich. It was just a plaything with no practical value.
+
+The mayor of Paris, during the World’s Fair of 1900, said, "After the fair is over, this fad of electricity will be forgotten as quickly as the lights turn off." Famous last words are very common in technology, words that in retrospect look ridiculous. Like the head of IBM who once said, "I foresee a need for no more than five computers worldwide." Like the people who said that the telephone would never succeed.
+
+____
+"Famous last words are very common in technology, words that in retrospect look ridiculous."
+____
+
+Can you guess what people are saying about bitcoin? They're telling you that it is a technology that is weird and complicated. A technology that caters to misfits, drug dealers, degenerates, pornographers, terrorists, thieves, swindlers. I don't see any of those people in this room but we better be careful just in case they show up.
+
+Of course, they're wrong. Bitcoin is none of those things. Bitcoin is simply a technology. As a technology, often the first use it finds is in the hands of criminals. The first cars were used as getaway vehicles. The first telephones were used to plot conspiracy. The first telegrams were used to run long-distance mail-fraud schemes and Ponzi schemes. The first forms of electricity were used to run medical hoaxes and scam people. These things always happen with a new technology, and they happen with bitcoin, too. ((("innovation", "crime")))
+
+____
+"Bitcoin is simply a technology. As a technology, often the first use it finds is in the hands of criminals. The first cars were used as getaway vehicles... Criminals use the most cutting-edge technology because they operate in an environment with very high profit margins and very high risk."
+____
+
+Why do you think criminals use technology like that? We could be moralistic about it and look at the actual reasons. Criminals use the most cutting-edge technology because they operate in an environment with very high profit margins and very high risk. In that environment, competition is fierce. Using the latest technology if you're already taking enormous risks isn't that big of a deal. And if you win, it gives you an enormous advantage. Throughout history, the most amazing technology is adopted by criminals first. I don't think that's necessarily what we want to put on the bitcoin marketing plan, but it's interesting to look at what criminals do and how that ends up being mainstream technology a decade later. There's a certain dynamic there.
+
+Bitcoin is already way past its early stage and is no longer the purview of criminals. In fact, arguably it really wasn't in the first place, despite what the media said. Now, bitcoin is hitting the mainstream and things are changing very rapidly.
+
+____
+"With bitcoin as a technology, something very exciting is happening. Something is going to shake up our financial and banking system as much as cars shook up the horse industry, as much as oil shook up the whaling industry, as much as electricity shook up the wood stove industry."
+____
+
+Today I'm going to talk about bitcoin as a technology because something very exciting is happening. Something is going to shake up our financial and banking system as much as cars shook up the horse industry, as much as oil shook up the whaling industry, as much as electricity shook up the wood stove industry. Banking is about to be disrupted. Arguably, it's already being disrupted. In fact, by the time they figure out how serious this destruction already is, the game's already over. That's usually the case.
+
+=== Incumbent Reactions to Innovation
+When established, entrenched industries first see a new disruptive technology, they ignore it because it can't possibly pose a threat. From the benefit of incumbency, from the high perch of an established monopolistic business, these threats look like children playing around. To JPMorgan Chase, bitcoin is like a lemonade stand trying to take on Walmart. ((("banking")))If the technology continues to exist, then they go into the next phase where they start mocking the technology. They suddenly see it everywhere and they start making jokes about it. So, just like with the automobile, the first people who bought cars were mocked. They were shown always on their knees with a spanner, trying to fix their machine that had broken down again. That was the image of an automobile owner for the first years.
+
+While they mock it, bitcoin continues to grow and improve. After a while, you see a change. At first, some of the incumbents in the industry say, "Hey, maybe we need to experiment with this. Maybe we need to start looking at this." Then there's a stampede because suddenly they realize _this is going to change our industry forever_.
+
+By that time, it's too late. By that time, they’re Kodak: going from number one in the world to, within three years, losing a $12 billion industry right out from under their feet to a company they had never even heard of before. A company that didn't even make cameras. Do you know who destroyed Kodak? A little Finnish company they had never heard of called Nokia. A company that didn't make cameras—until they did. Within three years they made half a billion cameras and destroyed Kodak. ((("innovation", "cameras")))Tower Records dominated the music industry. Within four years they disappeared. Why? Because MP3s gave people choice. ((("innovation", "MP3")))
+
+IBM used to be the most unshakable company in computers. They guaranteed quality. In fact, buying anything but IBM was a sure sign that you were a loser. Then Linux happened. ((("Linux")))Linux shook IBM to the core because it subverted the very basic idea that in order to deliver quality engineering, in order to deliver the best computers possible for the serious work of banking, engineering, and government operations, you needed IBM. You needed a closed, controlled, carefully organized system built by serious Ph.D. engineers.
+
+Back in 1992 when Linus Torvalds said, "I'm going to build an operating system in my dorm room because I can't afford to buy an operating system,” that idea seemed completely preposterous. Operating systems were enormous edifices of complexity that took thousands of engineers to build. Linus Torvalds started simple; he started building an operating system. Six years later, Linux had started dominating the computing industry and Sun Microsystems was beginning to feel the pain. Eight years later, Sun Microsystems was heading into bankruptcy, HP was getting bought, their computer division was shutting down, and IBM stepped out of the personal-computing business.
+
+Now, 80 percent of the cell phones on the planet run Android -- which, by the way, is Linux.  ((("adoption")))The servers they connect to run Linux. The banks we use run Linux. The entertainment systems we use run Linux. The cars we drive run Linux. You can always tell if they stop running Linux: the little blue screen that greets you that says, _Bleh. Sorry. Crashed. Wrong choice of operating system_. You get into a plane, the entertainment system boots up, it's running Linux. If you said to an IBM engineer 15 years ago, "You are about to be destroyed by an operating system built by a Finnish student in their dorm,” they would have laughed at you. ((("innovation", "Linux")))
+
+____
+"If you said to an IBM engineer 15 years ago, 'You are about to be destroyed by an operating system built by a Finnish student in their dorm,' they would have laughed at you."
+____
+
+Here we are today, and bitcoin is taking on the entire banking system, the most powerful industry in the world. Guess what? Bitcoin's going to win. It's going to win for a very simple reason. It's not just going to win because it's better. It's not just going to win because the banking system is run by gangsters, crooks, and some of the most immoral empty suits in the world. It's not just going to win because the banking system has spent the last 50 years delivering just two consumer innovations -- ATMs and credit cards -- and then spent the rest of the time trying to figure out how to fleece you. It's going to win because it's open. In a world of tinkers, of experimenters, of makers, open wins. The reason it wins is that it allows innovation to flourish at the edges.((("innovation", "open")))
+
+____
+"Bitcoin is going to win because it's open. In a world of tinkers, of experimenters, of makers, open wins. The reason it wins is that it allows innovation to flourish at the edges."
+____
+
+=== Open Innovation and Opt-In Systems
+Let me explain what I mean by that. Every single financial system in the world has a security and trust model that requires excluding bad actors. ((("access control"))) I can't connect to the Visa network and program it because doing so would endanger the security of the Visa network. I can't connect to the SWIFT network, the worldwide interbank wire transfer network, because doing so would endanger the security of that network. All of these networks are designed to be closed because their primary security relies on access control. Very carefully vetting every single person who has access and touches the code.((("network", "closed network"))) Very carefully vetting all of the applications that run on that system, because if they allow one bad actor into the heart of the system, that security is gone. That one bad actor can take over and do whatever they want. Of course, in 2008 we discovered that the bad actors owned the banks. And they did take over. They destroyed millions of homeowners, millions of retirees, and millions of savers all around the world with their greed.
+
+____
+"Bitcoin is different because it doesn't depend on access control to remain secure. It depends on a simple mathematical formula of incentives and rewards."
+____
+
+Bitcoin is different. The reason it's different is not because we've suddenly found the most honest people in the world. Or because there are no quirks in bitcoin. Or because the network doesn't get attacked. Bitcoin is different because there are plenty of crooks in bitcoin -- the network gets attacked all the time -- but it doesn't depend on access control to remain secure. ((("security"))) It depends on a simple mathematical formula of incentives and rewards. ((("incentives")))In order to participate in the bitcoin network and secure the network as a miner, which is a special function in bitcoin, you have to use a lot of computing power and spend a lot of electricity. If you win that competition, you get bitcoin as a reward. That simple equation creates a system of incentives where it's far better to play _with_ the rules than against the rules. It's game theory. ((("game theory")))It's like a giant game of Sudoku.
+
+If you look at that as a computer scientist, or even more as a banker, you say, "That can't possibly work. What do you mean it's a giant game of Sudoku and everybody is competing against each other? That's not the basis of a security system. That would bring chaos." It's kind of like "What do you mean it's an encyclopedia that anyone can edit? That would bring chaos” -- said the Encyclopedia Britannica. If you're under 40, you've never heard of it.
+
+Bitcoin is a completely open network. Anyone can connect to it. You can write an application right now, connect to the bitcoin network, and teach it to do something new. You can write a new financial service. You can write a new financial instrument. When you do so, you don't have to identity yourself to the network, you don't have to get permission from anyone. You don't have to be vetted. You don't have to be secured. The network doesn't fear you because its security doesn't depend on keeping bad actors out. In fact, bitcoin works fine with plenty of bad actors right in the core of the system because there is no core of the system; there is no center. It's a completely decentralized system. ((("decentralized")))What happens when you create a network where open access to financial services is possible? Where, for the first time in history, anyone can connect and write an application?
+
+____
+"Bitcoin is the internet of money, and currency is just the first application."
+____
+
+Bitcoin isn't currency. That's a really important thing to realize. Currency is an app that runs on the bitcoin network. Bitcoin is the internet of money, and currency is just the first application. Today, there are a thousand companies writing the next app. Those companies are hiring tens of thousands of people in one of the most vibrant industries we have seen in the last two decades. In 2014, bitcoin startups will receive more than $250 million of investment. What's remarkable about that is that it's faster than the rate of investment in the internet in 1995. We are ahead of the curve. Bitcoin is growing faster than Twitter did in the first three years. Bitcoin is growing faster than Facebook grew in the first few years. The reason for that is because every misfit, weirdo, freak, or programmer from anywhere in the world can now connect to bitcoin without asking anyone's permission and take their weirdo misfit idea and build a new financial service. A new banking application. ((("innovation")))A new shopping application. A new escrow application. And that's exactly what people are doing. They are building things that are innovative, new, and brilliant. Things that we've never seen in banking before. Things that wouldn't get past the first planning meeting in your average bank because they'd get shot down.
+
+____
+"When you have these two environments running side by side -- the banking environment where everything requires permission, which is most certainly not granted, and a system which is completely open, where innovation happens on the edge without permission -- guess who wins. Guess where all of the exciting things happen."
+____
+
+When you have these two environments running side by side -- the banking environment where everything requires permission, which is most certainly not granted, and a system which is completely open, where innovation happens at the edge without permission -- guess who wins. Guess where all of the exciting things happen. Guess where all of the innovation happens. This is innovation that serves consumers. ((("innovation", "for consumers")))
+
+_____
+"Bitcoin is an opt-in system. You choose to use it. You choose what apps you're going to run. You choose who you're going to interact with. You choose the rules of the game by which you're going to interact. That's why bitcoin is going to win. It delivers innovation that consumers want and need."
+_____
+
+No one is sitting on bitcoin and trying to find a way to front run a high-frequency trading algorithm so they can squeeze 3 microcents about four microseconds faster than the other giant bank that's playing with algorithms. ((("innovation", "banking")))No one's trying to find a way to screw you out of your overdraft facility, an innovation that was pioneered by one of the big banks, I think in 2007. They realized that if you were close to the overdraft limit, if instead of running the big transaction first they flipped the order of the transactions and ran a lot of small ones, you'd pay a 25-dollar fee for every one of them, and they could maximize their fees. That's the kind of innovation they were focused on. So, they innovated more ways to screw their customers. ((("transaction", "fees")))
+
+In bitcoin, nobody's doing that kind of innovation. The reason they're not doing that kind of innovation is because in bitcoin you can't force someone to take your app. If you bank with a big bank, it's _their_ network, it's their policy, you're using their debit card, playing by their rules, and if you don't like it, you can go elsewhere and discover that they're all the same. Bitcoin is an opt-in system. You choose to use it. You choose what apps you're going to run. You choose who you're going to interact with. You choose the rules of the game by which you're going to interact. If you don't like an app, you don't download it. If you love an app, you download it and you tell all your friends about it. That's why bitcoin is going to win. It delivers innovation that consumers want and need.
+
+=== Including 6.5 Billion People in a Global Economy
+There's another reason bitcoin will win. There is a massive imbalance that most people here don't notice. Every person in this room has access to a bank account without currency controls. A bank account from which they can buy and sell any currency in the world. A bank account from which they can wire money anywhere in the world. A bank account from which they can access international markets like the Tokyo Stock Exchange or the German stock exchange. A market from which they can access credit and liquidity. Auto loans and mortgages. A bank account which is powerful. That power is available to about a billion people on this planet. A billion people who have access to full-fledged, international, high-liquidity banking facilities. ((("banking")))
+
+There are 2 billion people who have no bank accounts at all. There are another 4 billion people who have very limited access to banking. ((("inclusion"))) Banking without international currencies, banking without international markets, banking without liquidity. Bitcoin isn't about the 1 billion. Bitcoin is all about the other 6 1/2. The people who are currently cut off from international banking. What do you think happens when you suddenly are able to turn a simple text-messaging phone in the middle of a rural area in Nigeria, connected to a solar panel, into a bank terminal? Into a Western Union remittance terminal? ((("remittances")))Into an international loan-origination system? A stock market? An IPO engine? At first, nothing, but give it a few years.
+
+We've seen what happens with the development of the cell-phone technology that was deployed in Africa faster than any other technology ever in the history of humanity. We see small villages, where they have no running water, wood fires to cook with, and no electricity -- yet there's one little solar panel on top of a mud hut and that solar panel is not there for light. It's there to charge a Nokia 1000 feature phone. That phone gives them weather reports, grain prices at the local market, and connects them to the world. What happens when that phone becomes a bank? Because with bitcoin, it can be a bank. What happens when you connect 6 1/2 billion people to a global economy without any barriers to access? ((("innovation", "byob (be your own bank)")))
+
+____
+"What happens when you connect 6 1/2 billion people to a global economy without any barriers to access?"
+____
+
+=== Remittances, Impacting Lives around the World
+Bitcoin is not a currency. Bitcoin is the internet of money. As a technology, it can bring economic inclusion and empowerment to billions of people in the world. I'll give you one example of a specific application that is going to fundamentally change the lives of more than a billion people in the next five to ten years. ((("remittances")))
+
+Every day, an immigrant somewhere cashes their paycheck and stands in line to wire 50 percent of that paycheck back to their home country to feed their extended family. Here in the US, 60 million people have no bank accounts, yet they cash their paychecks and send them abroad. Overall in the world, $550 billion is transmitted every year as remittances from first-world countries. Much of that money is sent to five major destinations: Mexico, India, the Philippines, Indonesia, and China. In some of these places, remittances represent up to 40 percent of the local economy. Sitting on top of that flow of $550 billion are companies like Western Union, and they take, on average, a cut of 9 percent of every single one of these transactions out of the pockets of the poorest people of the world.
+
+____
+"Imagine what happens when one day one of these immigrants figures out that they can send money back to their home country with bitcoin -- not for 15 percent, not 10 percent, not 5 percent, but for 5 cents. Not a percentage; a flat fee."
+____
+
+Imagine what happens when one day one of these immigrants figures out they can do the same thing with bitcoin -- not for 15 percent, not 10 percent, not 5 percent, but for 5 cents. Not a percentage; a flat fee. What happens when they can do that? They can, right now. There is a startup company that is handling remittances between the US and the Philippines. They're doing a few million dollars right now, but they're going to start growing. There's $500 billion sitting behind that dam. When you're an immigrant and you can change your financial future by not paying 9 percent to send money home, imagine what happens if every month, instead of sending 91 dollars home, you send 100 dollars home. That makes a difference. There are a billion people, right now, with access to the internet and feature phones who could use bitcoin as an international wire-transfer service.
+
+=== Bitcoin Will Change the World
+To sum up, bitcoin is the most exciting technology I have seen. I was on the internet in 1989 as a young kid. I knew it was going to change the world long before most people figured it out. I told everyone around me, "We're going to be shopping on this. We're going to do banking on this thing." People's reactions were quite predictable: "Yeah, Andreas, go do your homework, clean up your room." When I first saw Linux, I said, "Man, this is going to change operating systems forever. IBM is going down." Everybody laughed at me. When I saw the first web browser and the first website, I said, “Every single company in America is going to have a website within a decade.” Everyone laughed at me. Well, let me tell you something. I don't know what's going to happen with bitcoin, but I do know that the underlying invention -- a system of digital currencies that has no banks, no governments, no central control and is available for anyone to use without asking permission -- will change the world.
+
+Thank you.

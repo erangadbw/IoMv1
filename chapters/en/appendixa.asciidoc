@@ -1,0 +1,43 @@
+[appendix]
+[[video_links]]
+== Video Links
+
+Each of the chapters included in this book are derived from talks delivered by Andreas M. Antonopoulos at conferences and meetups around the world. Most of the talks were delivered to general audiences, yet some were delivered to limited audiences (like students) for a particular purpose.
+
+Andreas is known for engaging with the audience during his presentations, much of the crowd interaction has necessarily been cut from the text. We encourage you to view the original content, if only to get an idea of what it's like to attend one of these events. All of the videos and many more are available on Andreas's youtube channel -- aantonop.
+https://www.youtube.com/user/aantonop.
+
+Below you'll find a list of the talks we've included in this text, along with locations, dates, and links to the original content.
+
+What Is Bitcoin? :: Disrupt, Start-up, Scale-up Conference; Athens, Greece; November 2013;
+https://www.youtube.com/watch?v=LA9A1RyXv9s
+
+Peer-to-Peer Money :: Reinvent Money Conference at Erasmus University; Rotterdam, Netherlands; September 2015;
+https://www.youtube.com/watch?v=n-EpKQ6xIJs
+
+Privacy, Identity, Surveillance and Money :: Barcelona Bitcoin Meetup at FabLab; Barcelona, Spain; March 2016;
+https://www.youtube.com/watch?v=Vcvl5piGlYg
+
+Innovators, Disruptors, Misfits, and Bitcoin :: Maker Faire at the Henry Ford Museum, Detroit Michigan; July 2014;
+https://www.youtube.com/watch?v=LeclUjKm408
+
+Dumb Networks, Innovation, and the Festival of the Commons :: O'Reilly Radar Summit at Navy Pier; San Francisco, California; January 2015;
+https://www.youtube.com/watch?v=x8FCRZ0BUCw
+
+Infrastructure Inversion :: Zurich Bitcoin Meetup; Zurich, Switzerland; March 2016;
+https://www.youtube.com/watch?v=5ca70mCCf2M
+
+Currency as a Language :: Keynote at the Bitcoin Expo 2014; Toronto, Ontario, Canada; April 2014;
+https://www.youtube.com/watch?v=jw28y81s7Wo
+
+Bitcoin Design Principles :: Harvard Innovation Lab for an IDEO Workshop; Boston, Massachusetts; June 2015;
+https://www.youtube.com/watch?v=Ur037LYsb8M
+
+Money as a Content Type :: Bitcoin South Conference; Queenstown, New Zealand; November 2014;
+https://www.youtube.com/watch?v=6vFgBGdmDgs
+
+Elements of Trust: Unleashing Creativity :: Blockchain Meetup; Berlin, Germany; March 2016;
+https://www.youtube.com/watch?v=uLpSM3HWU6U
+
+Scaling Bitcoin :: Bitcoin Meetup at Paralelni Polis; Prague, Czech; March 2016;
+https://www.youtube.com/watch?v=bFOFqNKKns0

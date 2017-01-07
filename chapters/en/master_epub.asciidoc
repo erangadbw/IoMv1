@@ -1,0 +1,37 @@
+= The Internet of Money
+
+include::praise_epub.asciidoc[]
+
+include::foreword.asciidoc[]
+
+include::preface.asciidoc[]
+
+include::Disrupt.asciidoc[]
+
+include::PeerToPeerMoney.asciidoc[]
+
+include::PrivacyIdentity.asciidoc[]
+
+include::InnovatorsDisruptorsMisfitsBitcoin.asciidoc[]
+
+include::DumbNetworks.asciidoc[]
+
+include::InfrastructureInversion.asciidoc[]
+
+include::CurrencyAsLanguage-Toronto.asciidoc[]
+
+include::BitcoinDesignPrinciples.asciidoc[]
+
+include::MoneyAsContentType.asciidoc[]
+
+include::ElementsOfTrust.asciidoc[]
+
+include::Scaling.asciidoc[]
+
+include::appendixa.asciidoc[]
+
+include::title_epub.asciidoc[]
+
+<<<
+[index]
+== Index

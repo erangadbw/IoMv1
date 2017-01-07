@@ -1,0 +1,5 @@
+While many books explain the how of bitcoin, The Internet of Money delves into the why of bitcoin. Acclaimed information-security expert and author of Mastering Bitcoin, Andreas M. Antonopoulos examines and contextualizes the significance of bitcoin through a series of essays spanning the exhilarating maturation of this technology.
+
+Bitcoin, a technological breakthrough quietly introduced to the world in 2008, is transforming much more than finance. Bitcoin is disrupting antiquated industries to bring financial independence to billions worldwide. In this book, Andreas explains why bitcoin is a financial and technological evolution with potential far exceeding the label “digital currency.”
+
+Andreas goes beyond exploring the technical functioning of the bitcoin network by illuminating bitcoin’s philosophical, social, and historical implications. As the internet has essentially transformed how people around the world interact and has permanently impacted our lives in ways we never could have imagined, bitcoin--the internet of money--is fundamentally changing our approach to solving social, political, and economic problems through decentralized technology.

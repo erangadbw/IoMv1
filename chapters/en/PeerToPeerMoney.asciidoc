@@ -1,0 +1,132 @@
+== Peer-to-Peer Money
+
+_Reinvent Money at Erasmus University; Rotterdam, Netherlands; September 2015_
+
+Video Link: https://www.youtube.com/watch?v=n-EpKQ6xIJs
+
+A lot of people ask me to talk about the latest things in bitcoin, but what I really want to talk about is ancient history. I want to provide a historical context for money and talk about why bitcoin is important in this historical context.
+
+=== How Old Is Money?
+First, a little pop quiz for the audience: If you think of money as technology, as a technological system that human civilization has invented, how old is this technology? Any ideas? _Audience responds with wildly varying answers_
+
+Lots of different answers here. It's always surprising to me that people say, it's 400 years old, 1000 years old, 2000 years old. In fact, we don’t really know how old money is. Part of the reason we don't know how old money is, is because we have yet to discover a civilization so old that it didn't have money. We know money is as old as civilization. ((("money", "age of")))
+
+____
+"Money is as old as civilization."
+____
+
+One thing that surprises people is that money is older than writing. We know this because when we look at archeological discoveries of writing, we find hieroglyphics and we find cuneiform. When we look at all of these ancient forms of writing, guess what they're writing about. Money. They’re writing ledgers. All of the ancient writing we find, the first forms of writing, are ledgers. They are writing about money. Because money is older than writing.
+
+Is money older than the wheel? I don't know, but we do know that wheels were used as money. Perhaps the first wheel was sold for money or was used as a form of money itself. Archeological sites going back into the Stone Age have revealed the presence of money in the form of shells and feathers and beads.
+
+In fact, we can teach primates how to use money. There have been several studies where chimpanzees are taught how to use money. They are taught that a specific type of stone can be exchanged for bananas. ((("money", "animals use of")))Researchers then watch the monkeys to see what they will do with this new information. They very quickly invent armed robbery. They figure out that if you beat up the other monkey and take its stones, you can exchange them for bananas. Surprisingly, the second thing they invent is prostitution. They figure out that sexual favors can be exchanged for stones, which can be used for bananas. What does that tell you about the nature of money? ((("crime")))
+
+I think the important insight into the nature of money is that money is a form of communication. At its very basic level, money isn't value. Money represents an abstraction of value; it's a way of communicating value. It's a language. ((("money", "language"))) Therefore, money is as old as language because the ability to communicate value is as old as language and money. In many ways, it has characteristics that make it a linguistic construct. It's a form of communication. ((("money", "communication")))
+
+____
+"We use money to communicate value to each other, to express to each other how much we value a product, a service, a gesture."
+____
+
+We use money to communicate value to each other, to express to each other how much we value a product, a service, a gesture. We use it as the basis of social interaction because by communicating value to each other, we create social bonds. So, money is also a very important social construct. This is an ancient technology. Yet, ironically, it’s one of the technologies that is least studied from a historical and technological perspective. We look at bitcoin today and it represents an invention, a new form of money. Let's think about that for a moment.
+
+=== Technological Evolution of Money
+How often has the technology of money been transformed by invention? How many different forms of money have existed? At a very basic level, a way to communicate value is to exchange things that we consider of equal value. "Here is a goat. I will take 20 bananas for my goat." That’s not really money because it's a barter transaction, but it’s the first form of communication about value. ((("money", "communicating value"))) ((("barter")))
+
+==== Barter to Precious Metals
+Then, we start seeing abstract forms of money. The first major technological evolution is to start exchanging something that you can't eat—a feather, a bead, a string with knots on it, a colorful something that can be used for aesthetic purposes. That's when money takes an abstract form. The first major transformational technology moment for money was when money stopped being about the tangible consumption of intrinsic value, but became something that referred to value, as an abstraction. ((("money", "abstract value")))
+
+____
+"The first major transformational technology moment for money was when money stopped being about the tangible consumption of intrinsic value, but became something that referred to value, as an abstraction. One of the most popular forms of these abstractions was to use precious metals to express value."
+____
+
+One of the most popular forms of these abstractions was to use precious metals to express value. ((("money", "precious metals")))Precious metals combine some of the most important characteristics of money: hard to find (scarce); easily transportable (at least when compared to a giant rock or a whole barrel of feathers); easy to divide (you can cut a gold coin into pieces and subdivide the pieces); and universally valued for aesthetic purposes. ((("money", "characteristics of")))That’s the second major transformation in money technology. It took hundreds of thousands of years before we saw the introduction of precious metals. Historically, we start seeing precious metals in the beginning of the agrarian civilizations in the Fertile Crescent area in the Middle East. The Babylonians, the Egyptians, and the Greeks developed these precious metals.
+
+==== Precious Metals to Paper
+Two major technological evolutions and then nothing for a few thousand years. Then someone came up with a brilliant idea: If I deposit gold with someone trustworthy, they can give me a piece of paper that says that I have gold in this trustworthy vault. Then I could trade the paper instead of the gold. It’s easier to carry. As long as I can trust that my money is in the vault, then I've got a new form of money.
+
+With every technological evolution in money, there is skepticism. But I think this might be the moment of the greatest amount of skepticism in human civilization. For a lot of people, this new invention of money as paper was somewhat controversial. You think people are freaking out about bitcoin? Imagine how much they freaked out when you told them that now, instead of trading in gold, they would trade in pieces of paper. For a lot of people, this was unthinkable. I mean, after all, clearly this paper does not have any real value. It took about 400 years for paper, as money, to become accepted broadly. It was a big aberration. ((("innovation", "paper money")))
+
+____
+"You think people are freaking out about bitcoin? Imagine how much they freaked out when you told them that now, instead of trading in gold, they would trade in pieces of paper."
+____
+
+==== Paper to Plastic
+Then, about 60 years ago, we saw a new form of money in the form of plastic cards. In fact, the first cards were paper again. In the United States, Diners Club was the first to create a credit card, which was a form of traveler’s cheque. Then, people took that and they said, “This isn't money. Why don't you give me some of the good old paper money that I know?" That was another big transformation in money. ((("innovation", "credit cards")))
+
+==== Plastic to Bitcoin
+Now, we have bitcoin. Bitcoin is, in my mind, a pretty radical transformation. It’s as radical as the change from precious metals to paper money. Perhaps even more radical. So what is bitcoin? The fundamental issue in describing bitcoin is that if you use references to our existing experience, that experience is based on thousands of years of understanding what money is in a very physical form. Now, we're trying to explain a form of money that is completely abstract. "It's a token that represents acceptance in a network, a network-centric form of money.” But that doesn’t even begin to describe what this thing is.
+
+One of the most common misunderstandings, when I try to describe bitcoin, is that people think that it's simply a payment system, that bitcoin is simply a form of digitization of money. It’s digital money. Great. Well, that’s kind of pointless because we already have digital money. All of you use digital money every day, long before bitcoin came along. You have bank accounts. Those bank accounts have digital ledgers. You use those bank accounts to send payments electronically. That’s digital money.
+
+____
+"Bitcoin is a fundamental transformation of the technology of money."
+____
+
+Bitcoin isn't just digital money. Bitcoin is a fundamental transformation of the technology of money. It's difficult to grasp because it's so different from everything we've known before. So, I will take a different stab at it. I want to take a look at network architecture for a second.
+
+=== Moving to a Network-Centric, Protocol-Based Era
+Bitcoin is not happening in a vacuum. It's happening at a moment in history when we're seeing a transformation of many fundamental social institutions. That transformation is the great network-centric era. ((("network-centric era")))
+
+For centuries, social institutions were organized around hierarchical organizations: institutions, democracy, banking, education. All of our social interactions were organized by appeal to authority in these hierarchies, these bureaucracies of people. But something happened with the invention of the internet. We started seeing more and more of these social institutions changing from systems that were closed, opaque, unaccountable hierarchical complexes with their own rules, into platforms. We started seeing the introduction of systems that have interfaces, API's that we can access, where information can flow in and out of the organization. So, we move from institutions to platforms.
+
+Then, we start seeing an even more important transformation, when we move from platforms to protocols. The interesting thing about the change between a platform and a protocol is, when you have a protocol there is no central appeal. TCP/IP doesn't work in reference to a service provider. TCP/IP works without context everywhere in the world. You don't have to sign up for an account to use TCP/IP; you just have to use the language. Once you move from a platform to a language, it opens up all of these possibilities.
+
+____
+"Bitcoin is the first network-centric, protocol-based form of money. That means it exists without reference to an institutional or platform context."
+____
+
+Bitcoin is the first network-centric, protocol-based form of money. ((("money", "protocol")))That means it exists without reference to an institutional or platform context. I'll get back to that in a second, this is a really important point.
+
+==== Peer-to-Peer Architecture
+We say that bitcoin is peer-to-peer money. What does that mean? It refers to an architecture used in terms of computer science or networking or distributed systems to describe the relationship between participants and a system. The architecture of bitcoin is peer-to-peer because every participant in the network speaks the bitcoin protocol on an equal level. ((("network", "architecture")))There are no special bitcoin nodes; all nodes are the same.
+
+Peer-to-peer means that when you send out a transaction to the network, every peer treats it the same. It has no context inside the peer's system other than what it gets from the network. An interesting issue in distributed systems is this issue of context and state. If you log in to Facebook and you have an account with Facebook, you're not using a protocol. All of the state is controlled by Facebook. You have a login session and all of the data is held by them. We call that architecture _client-server_. Bitcoin is different because it's peer-to-peer, just like email or TCP/IP.
+
+==== Client-Server Architecture
+We are reluctant to discuss money. In fact, it's shocking that in almost all countries, money is not part of the education system. Five-year-olds have great questions about money. Most parents find it almost impossible to answer these questions. "What is money, Mommy? How does money work? Why do we not have more of it? Why can't everyone have more of it?" You don't say, "Suzy, go back to your room and study inflation, like a good girl, and don't come back until you understand the answer to those questions!"
+
+We don't discuss money. It's interesting -- we use a technology as a foundation of almost every aspect of social interaction, and yet it is a completely taboo subject. We all pretend that we don't particularly care about money, at least not intrinsically. We have higher goals and aspirations. We use it in everyday experience but we don't really talk about it. It’s a dirty topic. ((("money", "taboo")))
+
+I think the architecture has something to do with it. Before bitcoin, the previous iteration of money -- when money started being issued in exchange for precious metals stored in a vault -- what that represented was a form of debt. That’s a really important concept to understand because it colors our discussion.
+
+____
+"Before bitcoin, the previous iteration of money -- when money started being issued in exchange for precious metals stored in a vault -- what that represented was a form of debt."
+____
+
+How many of you have money in a bank? None of you has money in a bank. Do you store physical money in a safe deposit box? If so, maybe then you could say you have money in a bank. The rest of you have loaned your money to a bank. For the privilege of loaning your money to a bank, you will be paid the amazing interest rate of 0.00001 percent per year. Your bank will take that money, turn around, and loan it to the people standing next to you for 24.99 percent APR.
+
+____
+"This is a client-server relationship. Because that money only exists as a form of debt in a ledger that you do not control. A ledger that is stored by a server, and you are simply a client. In fact, you have no control over it at all."
+____
+
+This is a client-server relationship. Because that money only exists as a form of debt in a ledger that you do not control. A ledger that is stored by a server, and you are simply a client. In fact, you have no control over it at all. You don't even have basic interfaces to that money unless that interface is mediated by the server. That’s what a client-server architecture does. ((("network", "client-server architecture")))
+
+==== Master-Slave Architecture
+We have another term in distributed systems that describes a particular form of client-server architecture, where the secondary party only has a weak copy that isn't really meaningful. We call that a _master-slave architecture_. If you think of the previous iteration of money as a master-slave architecture, you have to ask an uncomfortable question: Who is the slave? Because in a system of debt, one of the two parties is always the slave. ((("network", "master-slave architecture")))
+
+____
+"...in a system of debt, one of the two parties is always the slave."
+____
+
+You are the client. You are not the server. The server doesn’t really serve you; they serve themselves because they're the master. That is the architecture of money we live in. That is the architecture of money we use in our civilization: an architecture of money where you have no control; an architecture of money where every interaction is mediated by a third party that has absolute control over that money. ((("money", "architecture")))
+
+Today, if you go to an ATM machine and you put in your card, the bank may decide to give you your money. One day—as the people of Cyprus, Greece, Venezuela, Argentina, Bolivia, Brazil, and a list of hundreds of countries over the last several decades and even centuries have discovered—one day, you go to the bank and the bank does not want to give you the money, because they don't have to. That's the essence of a master-slave relationship.
+
+____
+"Bitcoin is fundamentally different because in bitcoin, you don't owe anyone anything and no one owes you anything. It’s not a system based on debt."
+____
+
+Bitcoin is fundamentally different because in bitcoin, you don't owe anyone anything and no one owes you anything. It’s not a system based on debt. It’s a system based on ownership of this abstract token. Absolute ownership. We have an expression in the United States, which is “possession is nine-tenths of the law.” In bitcoin, possession is ten-tenths of the law. If you control the bitcoin keys, it's your bitcoin. If you don't control the bitcoin keys, it's not your bitcoin. You're back to a master-slave relationship. ((("security"))) ((("keys")))
+
+____
+"In bitcoin, possession is ten-tenths of the law. If you control the bitcoin keys, it's your bitcoin. If you don't control the bitcoin keys, it's not your bitcoin."
+____
+
+=== Bitcoin, a Fundamental Transformation of Money
+Bitcoin represents a fundamental transformation of money. An invention that changes the oldest technology we have in civilization. That changes it radically and disruptively by changing the fundamental architecture into one where every participant is equal. Where transaction has no state or context other than obeying the consensus rules of the network that no one controls. Where your money is yours. You control it absolutely through the application of digital signatures, and no one can censor it, no one can seize it, no one can freeze it. No one can tell you what to do or what not to do with your money.
+
+It is a system of money that is simultaneously, absolutely transnational and borderless. We’ve never had a system of money like that. It’s a system of money that transmits at the speed of light, one that anyone in the world can participate in with a device as simple as a text-messaging phone.
+
+This represents a technological innovation that is terrifying to a lot of people because it is such a fundamental transformation of money. What they will tell you is that they're worried. They're very worried. They’re worried that criminals will use bitcoin. But the truth is that they're far more terrified that all of the rest of us will.
+
+Thank you.

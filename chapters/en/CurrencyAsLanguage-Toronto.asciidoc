@@ -1,0 +1,146 @@
+== Currency as a Language
+
+_Bitcoin Expo 2014 - Keynote; Toronto, Ontario, Canada; April 2014_
+
+Video Link: https://www.youtube.com/watch?v=jw28y81s7Wo
+
+This is going to be a bit more of a philosophical talk about the future of cryptocurrencies and what I've learned here at this event. This event is called the Bitcoin Expo 2014. It might have been called the Bitcoin and Ethereum Expo 2014. I don't know if you noticed, but Ethereum had a pretty big presence here. ((("ethereum"))) ((("altcoins")))An interesting question comes up, actually quite a few people have asked me: "Does Ethereum threaten the future of bitcoin? Does it steal some of its thunder?" Those are questions I've heard several times, and I've heard people refer to that issue in trying to understand altcoins -- wondering whether altcoins essentially threaten the dominance of bitcoin, if they make bitcoin weaker, if they distribute the value of the network too broadly.
+
+=== Born into Currency
+I've been thinking about this question for quite a while. I think, fundamentally, it's a question that evokes the old paradigm of currencies. ((("currency", "paradigm"))) ((("money")))We've all grown up in a world where currencies are forced upon us in a monopolistic fashion, where currencies are defined strictly by the geographies in which they occur, and where the choice of currency is not yours. ((("currency", "choice")))It is an accident of birth, just like many other things in our lives. As an accident of birth, I was born into an upper-middle-class family in Greece, fully loaded with a lottery of privilege in my life. I also acquired the drachma. I didn't choose the drachma any more than I chose to be a white male, any more than I chose to be born into a family of educated people. Those things simply happened to me.
+
+____
+"Currency is an artifact of the nation-state. It imposes upon us a certain constraint. We don't choose our currency; it chooses us."
+____
+
+Currency, as we understand it, is an artifact of the nation-state. It imposes upon us certain constraints. We don't choose our currency; it chooses us. We are forced to use that currency in all of our interactions. We don't have a choice -- until 2008, that is. We now live in a slightly different world, but a lot of the old paradigm persists in our thinking.
+
+In a world where your currency is a monopolistic nation-state artifact that is constrained by geography, it's a zero-sum game. ((("currency", "zero-sum game")))The currency is the flag, is the nation-state. It is the expression of the economic value of your state. It defines your interactions in a world of geopolitics, in a global struggle for domination among nations. It's not up to individual choice. It has nothing to do with the individual, except for that one individual whose face is on the currency -- up until recently here in Canada, some old white lady named Elizabeth.
+
+=== Currency as a Means of Expression
+Now, we live in a new world, a world in which currency is a choice, and not just a choice in terms of use. It's not just a matter of being able to choose which currency we use as individuals. It's also a means of expression. Any of us can now create a currency using a simple web form. ((("currency", "creation")))
+
+____
+"Now, we live in a new world, a world in which currency is a choice, and not just a choice in terms of use... It's also a means of expression."
+____
+
+As I thought about the evolution of alt-currencies, as they're called, I realized I was asking the wrong questions. How many currencies will there be? How many altcoins will there be? How will altcoins compete in a world of cryptocurrencies as we move into the future? Will there be hundreds of altcoins? If there are hundreds of altcoins, what does that mean for the value of each of the altcoins? How do they compete? That was the wrong way of thinking about it. I saw currency as a zero-sum game, just like it had been imposed on my worldview from the nation-states that created currency. Then, I started thinking of currency as an application. And then, I started thinking of currency as a means of expression. ((("currency", "expression")))
+
+You see, money, at the very root of it, is a language. ((("money", "as a language")))It's a language we use to express value to each other. When I give you a dollar bill, I am saying that I want to hand you the equivalent value. I'm communicating my desire to exchange value with you, because I appreciate something you can do or something you can give to me. I'm using money as a token of language.
+
+____
+"Money, at the very root of it, is a language. It's a language that we use to express value to each other. When I give you a dollar bill, I'm saying that I want to hand you the equivalent value. I'm communicating my desire to exchange value with you."
+____
+
+==== Inventing Currency on the Playground
+This happens in human societies whether you have formal currencies or not. If you don't have a currency with a stamped face on it, you invent it. One of the things that really captivated me was understanding that if you have a primary-school environment and you watch children in their natural habitat (a very unnatural habitat in most schools), young children don't have currency, and they don't understand currency. But they invent currency. They start trading. Rubber bands, Pokemon cards, Tamagotchi, tokens of affection, tokens of popularity. Humans create currency as a means of expressing their desires, of expressing their individuality. I thought, What happens when a five-year-old in a primary school can use a website to create Joeycoin to compete against Mariacoin in a game of popularity within their school?
+
+Then it dawned on me: To ask the question, "How many currencies will exist?" is equivalent to asking the question, "How many bloggers will there be on the internet?" The answer is simple: all of us. ((("altcoins")))
+
+Currency is now a means of expression. But if everyone can create a currency, how does it derive value and what does it mean? What is the difference between currency as an expression of popularity, as an expression of desire, as a meme, a fad, a brand? Down there right now, _Andreas points outside of auditorium_, a Canadian teen idol contest is running. One of those contestants, Amir, has a big fan group. Maybe he wants to create AmirCoin so that his fans can express their desire to watch more of his dancing. Why not? People have talked about me doing AndreasCoin. I think it's a bit silly. But, why not? I think at some point we're going to see things like that happen.
+
+We're not going to have hundreds of altcoins. We're not going to have thousands of altcoins. We're going to have hundreds of thousands, and then millions of altcoins. Then, there will be thousands of altcoins being created every day to organize local communities to express fads, to create popularity contests, to codify the latest internet meme.
+
+____
+"We're not going to have hundreds of altcoins. We're not going to have thousands of altcoins. We're going to have hundreds of thousands, and then millions of altcoins."
+____
+
+=== Authority by Production
+With so many altcoins, how do you tell which ones have value and which ones don't? ((("altcoins", "value")))In order to try to answer these types of questions, I often reflect on the emergence of the first decentralized system in my lifetime, the internet. What it did for understanding information, information scarcity, opinion, and authority of opinion. What it did to us as a society as the internet emerged into our global scene.
+
+There used to be a time when if you wanted to read authoritative opinion, you bought a piece of paper from an organization that had a printing press that was three stories high and four football fields long and had a really great name, like _The New York Times_. ((("internet", "printing press")))That organization could buy ink by the barrel, and through that ownership of this enormous manufacturing facility, they had the weight of authority. We imbued authority into these institutions, and we used that authority to decide which opinions mattered and which opinions didn't. ((("authority")))We used them as gatekeepers of authority to give us guidance in understanding opinion.
+
+Then, the internet destroyed all of that, because suddenly _anyone_ could print, _anyone_ could publish. ((("publishing")))
+
+=== Authority by Merit
+In the early days, people asked, "How will we know which opinions matter if anyone can have an opinion?" The world will come to an end, they thought. But a funny thing happened. We shifted from a world in which authority and opinion came from the issuer, from the authority of the publisher by proxy, into a world where we had to look at opinion on its own merits, on the content of that opinion. We arrived at a world where _The New York Times_ prints bullshit that sends an entire nation into war, and an Egyptian blogger on the front lines of a revolution prints the truth that nobody wants to hear. Suddenly, the world is upside down. Authority is no longer the person who owns the printing press. Now the person who has the content is what matters. We just did this to currency. ((("authority")))
+
+____
+"Authority is no longer the person who owns the printing press. Now the person who has the content is what matters."
+____
+
+=== Valuing Currencies by Use
+Now, the authority is not derived from the sovereignty of the issuer, from the printing press of a nation-state that can declare through monopoly and use of force that this is the currency you will use. Now, we can choose currency, and a five-year-old can create currency. Maybe the currency that the five-year-old created has monetary value, maybe it doesn't. Most likely, it doesn't. But some will. We need to get used to a world where we have to judge currency not by who issued it, but by who uses it. Or rather, by how many people use it and what they use it for. ((("altcoins", "value"))) ((("currency"))) ((("money")))
+
+____
+"We need to get used to a world where we have to judge currency not by who issued it, but by who uses it. Or rather, by how many people use it and what they use it for."
+____
+
+Let's imagine a world in which a currency is being used in a widespread fashion, and no one remembers who created the currency or why. They only know that within their local community, it has purchasing power. As a little fanciful thought: Imagine a decade from now, in a rural village detached from developed nations, villagers exchanging two currencies. One has a Shiba Inu, a Japanese breed of dog, on the front and is pronounced _Dogecoin_. I'm not quite sure how to pronounce it and it doesn't really matter, but you can buy half a dozen eggs with it. The other villagers are trading another currency that has an old white lady named Elizabeth on it. They have no idea who Elizabeth is. They don't know why she got her picture on the coin. Maybe she wrote a nice song. Maybe she won Canadian _Teen Idol_. Nobody remembers anymore, but you can buy six eggs with it.
+
+To those people, it doesn't matter who issued the currency; what matters is whether it has purchasing power or not. The currency is now evaluated purely on its monetary basis, because of adoption, because of use. There is one fundamental difference between those two currencies. One has a predictable, stable, algorithmic monetary supply. The other has an old white lady named Elizabeth on it. So, in fact, one of them has some real intrinsic value because it has removed some of the uncertainty of the monetary system from it. The other one doesn't really. ((("currency", "value")))
+
+We need to get ready to live in a world where multiple currencies will coexist.
+
+==== Multiple Currencies Coexist
+Currency as a means of expression, currency as a tool of language, is no longer up to the issuer. It is up to us as individuals making a choice to use that currency, and we give it value through our use. We give it value through adoption. We will be surprised by some of the currencies that will emerge from a fad, a joke, perhaps even a sick joke, and will explode into viral consciousness on the internet and then become real monetary powers in use across a broad population.
+
+How do we operate in that kind of world? What does it mean to have competition between currencies if there are millions? What if digital scarcity really applies, but only on a local basis and only in the context of each of these currencies? What if scarcity is not derived from the issuer but is derived in terms of adoption and in terms of the token itself?
+
+____
+"Currency as a means of expression, currency as a tool of language, is no longer up to the issuer. It is up to us as individuals making a choice to use that currency, and we give it value through our use."
+____
+
+We're going to have currencies for different uses. Already, you have bitcoin that provides a very specific monetary policy. You have Ethereum that can provide a contract platform. There's Namecoin for distributed naming conventions. There are many others, and there will be many others that will solve other problems: protein folding, the search for extraterrestrial life. Maybe we'll have currencies that are better for microtransactions and micropayments with very fast resolution. Maybe we'll have currencies that are better for larger transactions, like real estate. Who knows. If you think of currency as an application, then you realize that it doesn't really matter.
+
+On the internet, email was the granddaddy of them all. Or the grandma of them all. Email, like bitcoin, was the killer app that allowed us all to see the power of decentralized communications and adopt this new platform. ((("email")))It was enough to create utility to spread this network all around the world, but it was only the first app. Then, instant messaging, forums, bulletin boards, Facebook, Twitter. Do you worry that Twitter will destroy email? Do you worry that Facebook will destroy instant messaging? Do you worry that the value of email is eroded somehow by the existence of Twitter? We don't worry about these things because we understand that each one serves a different purpose. Some allow us to express a modality of instantaneous, real-time communication. Some allow us to have asymmetric communication, where using Twitter I can address an audience of thousands and receive real-time feedback without having to have a bi-directional, synchronous communication. Some, like email, allow us to have more long-term, asynchronous communication between people.
+
+What we do is we build interfaces, we build abstractions, we build unifying tools that allow us to use all of these modalities from a single interface and fluidly move from one to the other. So, we can start transmitting a short text message to someone, get into a conversation, convert that to an audio conversation, decide that we want to show them our dog, turn on the video camera, convert it into a video conference, and when we're finished with the conversation, follow up with an email to summarize what we've agreed on. Now we've gone through five different modalities of communication in a single unified interface.
+
+____
+"What we do is we build interfaces, we build abstractions, we build unifying tools that allow us to use all of these modalities from a single interface and fluidly move from one to the other."
+____
+
+==== Currency as an App
+I think that's what's going to happen with currency. We're going to start treating currency as an application, and in order to do that we're going to need interfaces that allow us a unified currency experience, that allow us to have a single wallet with perhaps 150 different currencies in it. ((("Currency", "as an application"))) Because of inventions like sidechains, decentralized exchanges, fluid liquid systems and the complete absence of monopoly, of lock-in, of hostage situations around the currency, we will be able to instantaneously and at very low cost convert from bitcoin to Namecoin to Dogecoin to Ethereum. If we can do that, then it doesn't matter because _we_ won't do that; our unified wallet interface will do that, by trying to see what we're trying to achieve with our currency. If I'm buying a house, it might express my transactional will in the modality of bitcoin because that is the most suitable currency. When I try to name the domain for that house, it will convert some to Namecoin. The contract itself will be paid in ether. When I tip the bartender for the cup of coffee they gave me when I got up that morning, I'll tip them in Doge. My interface will hide all of these differences. ((("altcoins")))
+
+____
+"We're going to start treating currency as an application, and in order to do that we're going to need interfaces that allow us a unified currency experience, that allow us to have a single wallet with perhaps 150 different currencies in it."
+____
+
+I can see a world in which we can smoothly move between currencies in a multimodal way. There's one other thing that comes out of this, which is the very real possibility that we will abstract value in exchange rate from the actual currency. If we have a multimodal communication system, we no longer need to look at the individual values and exchange rates of all of these commodities, assets, currencies, call them whatever you want.
+
+==== Index Currency
+There's a very real possibility we're going to have an index currency: a currency that is not in itself tradable, that has no intrinsic use as a transactional commodity, but instead is only used to express the purchasing power vis-à-vis the various coins in our wallets. ((("currency", "index"))) I may have a thousand unified currency units. You can't buy unified currency units. You can buy bitcoin and then you can tell me how many unified currency units that is. I price everything in unified currency units, and then I pay in Dogecoin or Namecoin or bitcoin or Ether, depending on how I want to use it.
+
+____
+"I can see a world in which we can smoothly move between currencies in a multimodal way."
+____
+
+We already do this in financial markets. In fact, you can trade S&P 500. You're not buying a single company; what you're buying into is the aggregation of all of the different things that are in the stock market as an expression of the total value of the market. You can then use that meta-instrument in order to price transactions. ((("meta-instrument")))For example, the London Interbank Offered Rate is used as a meta-interest rate to contractually tie things to a global set of interest rates. You don't need to say, "I will buy this at whatever the Bundesbank says." You say, "I'll buy this at LIBOR plus 2," and then you have a stable point of reference for transactions.
+
+I expect we're going to see much of the same with currency. We're probably going to see meta-currencies ((("meta-currencies")))whose only purpose is to aggregate the value in all of our wallets for all of our currencies, and allow us to understand value as an abstraction that exists independently of the currencies in which it's expressed.
+
+=== Choosing Currencies and Communities
+So, that's a slightly philosophical perspective. That's why I think it doesn't matter: Ether is not competing with bitcoin; bitcoin is not competing with Litecoin. ((("Ether")))((("Litecoin")))They are all means to express the transactional modality we want to use at any point in time to achieve our goals. With this comes a very important and powerful tool. In the choices we make with these currencies, we are also choosing to align ourselves with a community. ((("currency", "community")))
+
+____
+"Adoption is not simply the act of using the currency; it's also attaching oneself to a community that has also chosen to adopt that currency."
+____
+
+Adoption is not simply the act of using the currency; it's also attaching oneself to a community that has also chosen to adopt that currency. ((("adoption")))When I choose to adopt bitcoin, I am a believer in a monetary policy of 21 million total coins as a stable source of value. If I choose to adopt Freicoin, I am a believer in an inflationary-basis, demurrage coin that has a negative interest rate, that enforces consumption and discourages hoarding. I am choosing my politics through my currency, and through that choice I am associating myself with a global community that has made the same choice as me, and that is expressing that choice through currency. Just like when I choose an application on the internet to communicate with, I'm also aligning myself with a corresponding community. I don't use Twitter just because it's a convenient communication mechanism. I use Twitter because I also agree with many of the concepts and philosophies of the community of other people who choose to use Twitter.
+
+____
+"We have entered the realm of meta-politics, of politics by algorithm, of the ability for global communities to form around a common consensus of politics through the choice of currency."
+____
+
+With currency, that choice is a much more powerful political choice. We have entered the realm of meta-politics, of politics by algorithm, of the ability for global communities to form around a common consensus of politics through the choice of currency. ((("Currency", "meta-politics"))) You want inflation? Use an inflationary currency. You're a goldbug? Use a deflationary currency. You want a currency that creates a guaranteed minimum income for the poor?  Use a currency that expresses those politics. You want a currency that puts aside tokens for carbon sequestration?  Use a currency that expresses your green politics. We're going to start seeing communities, politics, and currencies converge and allow us to make these choices. Just like I can support Joeycoin in order to say that Joey is in fact the coolest kid among the five-year-olds, I can support Greencoin because I care about global warming. Or not. I can support Meatcoin if I really really like red meat. Whatever. WorldWideWrestlingCoin, no problem. There'll be one of those, too.
+
+Really, all of these things are forms of expression, and that comes back to the original point: that currency, in the end, is really a form of language. It's a language by which we communicate our expectations and desires of value, and now that we can do it on such a massive scale, now that everyone can create currency, our choices will really matter. We're past the zero-sum game. This isn't about nation-states anymore. This isn't about who adopts bitcoin first or who adopts cryptocurrencies first, because the internet is adopting cryptocurrencies, and the internet is the world's largest economy. It is the first transnational economy, and it needs a transnational currency.
+
+____
+"This isn't about nation-states anymore. The internet is the world's largest economy. It is the first transnational economy, and it needs a transnational currency."
+____
+
+=== Currency Creates Sovereignty
+To summarize, we've inverted the very basic and most fundamental equation of currency. For millenia, until the year 2008, sovereignty defined currency. Sovereignty was the basis upon which currency could be created, and that currency allowed that sovereignty to be expressed. The monopolistic control of currency is the basis of sovereignty. Now, the internet has a currency. The internet is going to use that currency to create sovereignty.((("currency", "sovereignty")))
+
+____
+"After 2008, currency creates sovereignty."
+____
+
+After 2008, currency creates sovereignty. The internet has its own currency, which means that the internet has purchasing power. Which means the internet has economic freedom. Which means the internet can exert that economic freedom in a post-nationalist way, in a way that ignores borders and makes the nation-state not obsolete, but simply less relevant. When an Egyptian blogger can not only blog about the revolution but also fund that revolution in bitcoin, and they can connect with people from all around the world who share their ideas for self-determination and freedom, they are expressing their own sovereignty as an individual, and they are expressing the sovereignty of their community through the use of that currency.
+
+This is the world we now live in a world in which currencies can coexist, and where currency and its user adoption create sovereignty.
+
+Thank you.
